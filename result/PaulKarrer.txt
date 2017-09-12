@@ -1,0 +1,25 @@
+Paul Karrer
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1889-04-21</span>)</span>21 April 1889<br><span class="birthplace"><a href="/wiki/Moscow" title="Moscow">Moscow</a>, <a href="/wiki/Russia" title="Russia">Russia</a></span></br></td>
+
+*** Died ***
+<td>18 June 1971<span style="display:none">(<span class="dday deathdate">1971-06-18</span>)</span> (aged 82)<br><span class="deathplace"><a href="/wiki/Z%C3%BCrich" title="Zürich">Zürich</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Nationality ***
+<td class="category">Swiss</td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Universit%C3%A4t_Z%C3%BCrich" title="Universität Zürich">Universität Zürich</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Vitamin" title="Vitamin">Vitamins</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Marcel_Benoist_Prize" title="Marcel Benoist Prize">Marcel Benoist Prize</a> <small>(1922)</small><br><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> <small>(1937)</small></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a></td>

@@ -1,0 +1,39 @@
+Henri-Louis Bergson
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1859-10-18</span>)</span>18 October 1859<br><span class="birthplace">Paris, France</span></br></td>
+
+*** Died ***
+<td>4 January 1941<span style="display:none">(<span class="dday deathdate">1941-01-04</span>)</span> (aged 81)<br><span class="deathplace">Paris, France</span></br></td>
+
+*** Nationality ***
+<td class="category">French</td>
+
+*** Alma mater ***
+<td><a href="/wiki/%C3%89cole_Normale_Sup%C3%A9rieure" title="École Normale Supérieure">École Normale Supérieure</a><br><a href="/wiki/University_of_Paris" title="University of Paris">University of Paris</a></br></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a> (1927)</td>
+
+*** Era ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Region ***
+<td class="category"><a href="/wiki/20th-century_philosophy" title="20th-century philosophy">20th-century philosophy</a></td>
+
+*** School ***
+<td class="category">Western Philosophy</td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Continental_philosophy" title="Continental philosophy">Continental philosophy</a><br>
+French <a href="/wiki/Spiritualism_(philosophy)" title="Spiritualism (philosophy)">Spiritualism</a><br><a href="/wiki/Philosophy_of_life" title="Philosophy of life">Philosophy of life</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></br></br></td>
+
+*** 
+Main interests
+ ***
+<td class="org"><a href="/wiki/Coll%C3%A8ge_de_France" title="Collège de France">Collège de France</a></td>
+
+*** 
+Notable ideas
+ ***
+<td><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a>, <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>, <a href="/wiki/Philosophy_of_language" title="Philosophy of language">philosophy of language</a>,<br><a href="/wiki/Philosophy_of_mathematics" title="Philosophy of mathematics">philosophy of mathematics</a>, studies of <a class="mw-redirect" href="/wiki/Immediate_experience" title="Immediate experience">immediate experience</a></br></td>

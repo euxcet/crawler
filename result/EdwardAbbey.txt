@@ -1,0 +1,13 @@
+Edward Abbey
+
+*** Born ***
+<td style="line-height:1.4em;"><span style="display:none">(<span class="bday">1927-01-29</span>)</span>January 29, 1927<br><a href="/wiki/Indiana,_Pennsylvania" title="Indiana, Pennsylvania">Indiana, Pennsylvania</a>, U.S.</br></td>
+
+*** Died ***
+<td style="line-height:1.4em;">March 14, 1989<span style="display:none">(<span class="dday deathdate">1989-03-14</span>)</span> (aged 62)<br><a href="/wiki/Tucson,_Arizona" title="Tucson, Arizona">Tucson, Arizona</a>, U.S.</br></td>
+
+*** Occupation ***
+<td class="role" style="line-height:1.4em;">Essayist, novelist</td>
+
+*** Notable works ***
+<td style="line-height:1.4em;"><i><a href="/wiki/The_Monkey_Wrench_Gang" title="The Monkey Wrench Gang">The Monkey Wrench Gang</a></i></td>

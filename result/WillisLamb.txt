@@ -1,0 +1,31 @@
+Willis Lamb
+
+*** Born ***
+<td><span class="nickname">Willis Eugene Lamb Jr.</span><br><span style="display:none">(<span class="bday">1913-07-12</span>)</span>July 12, 1913<br><span class="birthplace"><a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, <a href="/wiki/California" title="California">California</a>, U.S.</span></br></br></td>
+
+*** Died ***
+<td>May 15, 2008<span style="display:none">(<span class="dday deathdate">2008-05-15</span>)</span> (aged 94)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Tucson" title="Tucson">Tucson</a>, <a href="/wiki/Arizona" title="Arizona">Arizona</a>, U.S.</span></br></td>
+
+*** Nationality ***
+<td class="category">United States</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Lamb_shift" title="Lamb shift">Lamb shift</a><br><a href="/wiki/Laser" title="Laser">Laser Theory</a><br><a class="mw-redirect" href="/wiki/Quantum_Optics" title="Quantum Optics">Quantum Optics</a></br></br></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1955)</span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/University_of_Arizona" title="University of Arizona">University of Arizona</a><br><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a><br><a class="mw-redirect" href="/wiki/Yale" title="Yale">Yale</a><br><a href="/wiki/Columbia_University" title="Columbia University">Columbia</a><br><a class="mw-redirect" href="/wiki/Stanford" title="Stanford">Stanford</a></br></br></br></br></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/J._Robert_Oppenheimer" title="J. Robert Oppenheimer">J. Robert Oppenheimer</a></td>

@@ -1,0 +1,26 @@
+Edward Tatum
+
+*** Born ***
+<td><span class="nickname">Edward Lawrie Tatum</span><br>
+December 14, 1909<br><span class="birthplace"><a href="/wiki/Boulder,_Colorado" title="Boulder, Colorado">Boulder, Colorado</a>, United States</span></br></br></td>
+
+*** Died ***
+<td>November 5, 1975<span style="display:none">(<span class="dday deathdate">1975-11-05</span>)</span> (aged 65)<br><span class="deathplace"><a href="/wiki/New_York_City" title="New York City">New York City</a>, United States</span></br></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a><br><a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Gene" title="Gene">Gene</a> regulation of biochemical events within cells</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Genetics" title="Genetics">Genetics</a></td>
+
+*** Notable students ***
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a><br><a href="/wiki/Yale_University" title="Yale University">Yale University</a><br><a href="/wiki/Rockefeller_University" title="Rockefeller University">Rockefeller Institute</a></br></br></td>

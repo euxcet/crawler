@@ -1,0 +1,35 @@
+André Gide
+
+*** Born ***
+<td style="line-height:1.4em;">André Paul Guillaume Gide<br><span style="display:none">(<span class="bday">1869-11-22</span>)</span>22 November 1869<br>
+Paris, France</br></br></td>
+
+*** Died ***
+<td style="line-height:1.4em;">19 February 1951<span style="display:none">(<span class="dday deathdate">1951-02-19</span>)</span> (aged 81)<br>
+Paris, France</br></td>
+
+*** Resting place ***
+<td style="line-height:1.4em;">Cimetière de Cuverville, Cuverville, Departement du Calvados, Basse-Normandie, France</td>
+
+*** Occupation ***
+<td class="role" style="line-height:1.4em;">Novelist, essayist, dramatist</td>
+
+*** Education ***
+<td style="line-height:1.4em;"><a href="/wiki/Lyc%C3%A9e_Henri-IV" title="Lycée Henri-IV">Lycée Henri-IV</a></td>
+
+*** Notable works ***
+<td style="line-height:1.4em;"><i><a href="/wiki/The_Immoralist" title="The Immoralist">L'immoraliste</a></i> (<i>The Immoralist</i>)<br><i><a href="/wiki/Strait_Is_the_Gate" title="Strait Is the Gate">La porte étroite</a></i> (<i>Strait Is the Gate</i>)<br><i>Les caves du Vatican</i> (<i>The Vatican Cellars</i>)<br><i><a class="mw-redirect" href="/wiki/La_Symphonie_Pastorale" title="La Symphonie Pastorale">La Symphonie Pastorale</a></i> (<i>The Pastoral Symphony</i>)<br><i><a href="/wiki/The_Counterfeiters_(novel)" title="The Counterfeiters (novel)">Les faux-monnayeurs</a></i> (<i>The Counterfeiters</i>)</br></br></br></br></td>
+
+*** Notable awards ***
+<td style="line-height:1.4em;"><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a><br>
+1947<br/></br></td>
+
+*** Spouse ***
+<td style="line-height:1.4em;">Madeleine Rondeaux Gide</td>
+
+*** Children ***
+<td style="line-height:1.4em;">Catherine Gide</td>
+
+*** Signature ***
+<td colspan="2" style="text-align:center;line-height:1.4em;">
+<hr/></td>

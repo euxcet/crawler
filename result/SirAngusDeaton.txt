@@ -1,0 +1,39 @@
+Sir Angus Deaton
+
+*** Born ***
+<td><span class="nickname">Angus Stewart Deaton</span><br><span style="display:none">(<span class="bday">1945-10-19</span>)</span> 19 October 1945 <span class="noprint ForceAgeToShow">(age 71)</span><br><span class="birthplace"><a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a></span></br></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_Kingdom" title="United Kingdom">British</a>, <a class="mw-redirect" href="/wiki/United_States_of_America" title="United States of America">American</a></td>
+
+*** Citizenship ***
+<td class="category"><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a><br><a href="/wiki/United_States" title="United States">United States</a></br></td>
+
+*** Education ***
+<td><a href="/wiki/Hawick_High_School" title="Hawick High School">Hawick High School</a><br><a href="/wiki/Fettes_College" title="Fettes College">Fettes College</a></br></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Fitzwilliam_College,_Cambridge" title="Fitzwilliam College, Cambridge">Fitzwilliam College</a>, <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Frisch_Medal" title="Frisch Medal">Frisch Medal</a> (1978)</li>
+<li><a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a> (2015)</li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a></td>
+
+*** Thesis ***
+<td><a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a><br><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></br></td>
+
+*** Doctoral advisor ***
+<td><i>Models of consumer demand and their application to the United Kingdom</i> <span style="font-size:90%;">(1975)</span></td>

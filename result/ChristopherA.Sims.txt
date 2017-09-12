@@ -1,0 +1,30 @@
+Christopher A. Sims
+
+*** Born ***
+<td><span class="nickname">Christopher Albert Sims</span><br><span style="display:none">(<span class="bday">1942-10-21</span>)</span> October 21, 1942 <span class="noprint ForceAgeToShow">(age 74)</span><br><span class="birthplace"><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a><br><a href="/wiki/Yale_University" title="Yale University">Yale University</a><br><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a><br><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></br></br></br></td>
+
+*** Alma mater ***
+<td class="category"><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a><br><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a><br><a href="/wiki/Time_series" title="Time series">Time series</a></br></br></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, <small>(A.B, PhD)</small></td>
+
+*** Doctoral
+students ***
+<td><a href="/wiki/Hendrik_S._Houthakker" title="Hendrik S. Houthakker">Hendrik S. Houthakker</a></td>
+
+*** Contributions ***
+<td><a href="/wiki/Lars_Peter_Hansen" title="Lars Peter Hansen">Lars Peter Hansen</a><br><a href="/wiki/Harald_Uhlig" title="Harald Uhlig">Harald Uhlig</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></br></td>
+
+*** Awards ***
+<td>Use of <a href="/wiki/Vector_autoregression" title="Vector autoregression">vector autoregression</a></td>

@@ -1,0 +1,25 @@
+John Lewis Hall
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1934-08-21</span>)</span> August 21, 1934 <span class="noprint ForceAgeToShow">(age 83)</span><br><span class="birthplace"><a href="/wiki/Denver" title="Denver">Denver</a>, <a href="/wiki/Colorado" title="Colorado">Colorado</a>, <a href="/wiki/United_States" title="United States">U.S.</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Carnegie_Institute_of_Technology" title="Carnegie Institute of Technology">Carnegie Institute of Technology</a></td>
+
+*** Known for ***
+<td>Optical <a href="/wiki/Frequency_comb" title="Frequency comb">frequency comb</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Department_of_Commerce_Gold_Medal" title="Department of Commerce Gold Medal">Department of Commerce Gold Medal</a> (1969)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (2005)</br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/University_of_Colorado_Boulder" title="University of Colorado Boulder">University of Colorado Boulder</a>, <a href="/wiki/JILA" title="JILA">JILA</a>, <a class="mw-redirect" href="/wiki/NIST" title="NIST">NIST</a></td>

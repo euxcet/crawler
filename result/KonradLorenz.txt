@@ -1,0 +1,22 @@
+Konrad Lorenz
+
+*** Born ***
+<td><span class="nickname">Konrad Zacharias Lorenz</span><br><span style="display:none">(<span class="bday">1903-11-07</span>)</span>7 November 1903<br><span class="birthplace"><a href="/wiki/Vienna" title="Vienna">Vienna</a>, <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a></span></br></br></td>
+
+*** Died ***
+<td>27 February 1989<span style="display:none">(<span class="dday deathdate">1989-02-27</span>)</span> (aged 85)<br><span class="deathplace">Vienna, Austria</span></br></td>
+
+*** Nationality ***
+<td class="category">Austrian</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1964)</small><sup class="reference" id="cite_ref-formemrs_1-0"><a href="#cite_note-formemrs-1">[1]</a></sup></li>
+<li><a href="/wiki/Kalinga_Prize" title="Kalinga Prize">Kalinga Prize</a> <small>(1969)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> <small>(1973)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

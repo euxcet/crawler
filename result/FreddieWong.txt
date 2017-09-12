@@ -1,0 +1,13 @@
+Freddie Wong
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1985-09-13</span>)</span> September 13, 1985 <span class="noprint ForceAgeToShow">(age 31)</span></td>
+
+*** Hometown ***
+<td><a class="mw-redirect" href="/wiki/Seattle,_Washington" title="Seattle, Washington">Seattle, Washington</a></td>
+
+*** Nationality ***
+<td>American</td>
+
+*** League ***
+<td><a href="/wiki/World_Series_of_Video_Games" title="World Series of Video Games">World Series of Video Games</a></td>

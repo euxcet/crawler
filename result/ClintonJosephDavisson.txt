@@ -1,0 +1,34 @@
+Clinton Joseph Davisson
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1881-10-22</span>)</span>October 22, 1881<br><span class="birthplace"><a href="/wiki/Bloomington,_Illinois" title="Bloomington, Illinois">Bloomington, Illinois</a>, USA</span></br></td>
+
+*** Died ***
+<td>February 1, 1958<span style="display:none">(<span class="dday deathdate">1958-02-01</span>)</span> (aged 76)<br><span class="deathplace"><a href="/wiki/Charlottesville,_Virginia" title="Charlottesville, Virginia">Charlottesville, Virginia</a>, USA</span></br></td>
+
+*** Nationality ***
+<td class="category">United States</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a> <small>(B.S., 1908)</small><br><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> <small>(Ph.D, 1911)</small></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Electron_diffraction" title="Electron diffraction">Electron diffraction</a></td>
+
+*** Spouse(s) ***
+<td>Charlotte Davisson</td>
+
+*** Awards ***
+<td><a href="/wiki/Comstock_Prize_in_Physics" title="Comstock Prize in Physics">Comstock Prize in Physics</a> (1928)<sup class="reference" id="cite_ref-Comstock_1-0"><a href="#cite_note-Comstock-1">[1]</a></sup><br><a href="/wiki/Elliott_Cresson_Medal" title="Elliott Cresson Medal">Elliott Cresson Medal</a> (1931)<br><a href="/wiki/Hughes_Medal" title="Hughes Medal">Hughes Medal</a> (1935)<br><span class="nowrap"><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1937)</span></br></br></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a><br><a class="mw-redirect" href="/wiki/Carnegie_Institute_of_Technology" title="Carnegie Institute of Technology">Carnegie Institute of Technology</a><br><a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a></br></br></td>
+
+*** Influenced ***
+<td><a class="mw-redirect" href="/wiki/Owen_Richardson" title="Owen Richardson">Owen Richardson</a></td>

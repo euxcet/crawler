@@ -1,0 +1,21 @@
+Mikhail Sholokhov
+
+*** Born ***
+<td style="line-height:1.4em;">Mikhail Aleksandrovich Sholokhov<br><span style="display:none">(<span class="bday">1905-05-24</span>)</span>May 24, 1905<br><a href="/wiki/Vyoshenskaya" title="Vyoshenskaya">Vyoshenskaya</a>, <a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></br></br></td>
+
+*** Died ***
+<td style="line-height:1.4em;">February 21, 1984<span style="display:none">(<span class="dday deathdate">1984-02-21</span>)</span> (aged 78)<br><a href="/wiki/Vyoshenskaya" title="Vyoshenskaya">Vyoshenskaya</a>, <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></br></td>
+
+*** Occupation ***
+<td class="role" style="line-height:1.4em;"><a href="/wiki/Novelist" title="Novelist">Novelist</a></td>
+
+*** Nationality ***
+<td class="category" style="line-height:1.4em;"><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet</a></td>
+
+*** Notable awards ***
+<td style="line-height:1.4em;"><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a><br>
+1965<br/></br></td>
+
+*** Signature ***
+<td colspan="2" style="text-align:center;line-height:1.4em;">
+<hr/></td>

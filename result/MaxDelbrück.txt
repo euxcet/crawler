@@ -1,0 +1,36 @@
+Max Delbrück
+
+*** Born ***
+<td><span class="nickname">Max Ludwig Henning Delbrück</span><br><span style="display:none">(<span class="bday">1906-09-04</span>)</span>September 4, 1906<br><span class="birthplace"><a href="/wiki/Berlin" title="Berlin">Berlin</a>, <a href="/wiki/German_Empire" title="German Empire">German Empire</a></span></br></br></td>
+
+*** Died ***
+<td>March 9, 1981<span style="display:none">(<span class="dday deathdate">1981-03-09</span>)</span> (aged 74)<br><span class="deathplace"><a href="/wiki/Pasadena,_California" title="Pasadena, California">Pasadena, California</a>, <a href="/wiki/United_States" title="United States">United States</a></span></br></td>
+
+*** Citizenship ***
+<td class="category"><a class="mw-redirect" href="/wiki/Citizenship_in_the_United_States" title="Citizenship in the United States">United States</a><sup class="reference" id="cite_ref-brittanica-x1_1-0"><a href="#cite_note-brittanica-x1-1">[1]</a></sup></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a></td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li>"discoveries concerning the replication mechanism and the genetic structure of viruses" <small>(Nobel Committee)<sup class="reference" id="cite_ref-nobel1969rationale_2-0"><a href="#cite_note-nobel1969rationale-2">[2]</a></sup></small></li>
+<li><a href="/wiki/Saffman%E2%80%93Delbr%C3%BCck_model" title="Saffman–Delbrück model">Saffman–Delbrück model</a></li>
+</ul></div>
+</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> (1967)<sup class="reference" id="cite_ref-frs_3-0"><a href="#cite_note-frs-3">[3]</a></sup></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1969)</li>
+<li><a href="/wiki/EMBO_Membership" title="EMBO Membership">EMBO Membership</a> (1970)<sup class="reference" id="cite_ref-membo_4-0"><a href="#cite_note-membo-4">[4]</a></sup></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Biophysics" title="Biophysics">Biophysics</a></td>

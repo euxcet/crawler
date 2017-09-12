@@ -1,0 +1,28 @@
+Albert Fert
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1938-03-07</span>)</span> 7 March 1938 <span class="noprint ForceAgeToShow">(age 79)</span><br><span class="birthplace"><a href="/wiki/Carcassonne" title="Carcassonne">Carcassonne</a>, <a href="/wiki/Aude" title="Aude">Aude</a>, <a href="/wiki/France" title="France">France</a></span></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/France" title="France">France</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/%C3%89cole_normale_sup%C3%A9rieure" title="École normale supérieure">École normale supérieure</a><br><a href="/wiki/University_of_Paris" title="University of Paris">University of Paris</a></br></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Giant_magnetoresistive_effect" title="Giant magnetoresistive effect">Giant magnetoresistive effect</a></td>
+
+*** Awards ***
+<td><a href="/wiki/CNRS_Gold_medal" title="CNRS Gold medal">CNRS Gold medal</a> (2003)<br><a href="/wiki/Wolf_Prize_in_Physics" title="Wolf Prize in Physics">Wolf Prize in Physics</a> (2006)<br><a href="/wiki/Japan_Prize" title="Japan Prize">Japan Prize</a> (2007)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (2007)</br></br></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/Universit%C3%A9_Paris-Sud" title="Université Paris-Sud">Université Paris-Sud</a>, <a href="/wiki/Michigan_State_University" title="Michigan State University">Michigan State University</a>, <a href="/wiki/National_Autonomous_University_of_Mexico" title="National Autonomous University of Mexico">National Autonomous University of Mexico</a></td>

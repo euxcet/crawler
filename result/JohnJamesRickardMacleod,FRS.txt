@@ -1,0 +1,25 @@
+John James Rickard Macleod, FRS
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1876-09-06</span>)</span>6 September 1876<br><span class="birthplace"><a href="/wiki/Clunie" title="Clunie">Clunie</a>, <a href="/wiki/Perthshire" title="Perthshire">Perthshire</a>, Scotland</span></br></td>
+
+*** Died ***
+<td>16 March 1935<span style="display:none">(<span class="dday deathdate">1935-03-16</span>)</span> (aged 58)<br><span class="deathplace"><a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a>, Scotland</span></br></td>
+
+*** Nationality ***
+<td class="category">Scottish</td>
+
+*** Citizenship ***
+<td class="category">British</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Aberdeen" title="University of Aberdeen">University of Aberdeen</a></td>
+
+*** Known for ***
+<td>Co-discovery of insulin</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1923)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

@@ -1,0 +1,22 @@
+Róbert Bárány
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1876-04-22</span>)</span>22 April 1876<br><span class="birthplace"><a href="/wiki/Vienna" title="Vienna">Vienna</a>, <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a></span></br></td>
+
+*** Died ***
+<td>8 April 1936<span style="display:none">(<span class="dday deathdate">1936-04-08</span>)</span> (aged 59)<br><span class="deathplace"><a href="/wiki/Uppsala" title="Uppsala">Uppsala</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austro-Hungarian</a><br><a href="/wiki/Sweden" title="Sweden">Sweden</a></br></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Vienna_University" title="Vienna University">Vienna University</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1914)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Medicine" title="Medicine">Medicine</a></td>

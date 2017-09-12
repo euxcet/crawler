@@ -1,0 +1,22 @@
+Nikolay Basov
+
+*** Born ***
+<td><span class="nickname">Nicolay Gennadiyevich Basov</span><br><span style="display:none">(<span class="bday">1922-12-14</span>)</span>14 December 1922<br><span class="birthplace"><a class="mw-redirect" href="/wiki/Usman_(town)" title="Usman (town)">Usman</a>, <a class="mw-redirect" href="/wiki/Russian_SFSR" title="Russian SFSR">Russian SFSR</a></span></br></br></td>
+
+*** Died ***
+<td>3 July 2001<span style="display:none">(<span class="dday deathdate">2001-07-03</span>)</span> (aged 78)<br><span class="deathplace"><a href="/wiki/Moscow" title="Moscow">Moscow</a>, <a href="/wiki/Russia" title="Russia">Russia</a></span></br></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Moscow_Engineering_Physics_Institute" title="Moscow Engineering Physics Institute">Moscow Engineering Physics Institute</a></td>
+
+*** Known for ***
+<td>Invention of <a href="/wiki/Laser" title="Laser">lasers</a> and <a href="/wiki/Maser" title="Maser">masers</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(1964)</small><br><a href="/wiki/Kalinga_Prize" title="Kalinga Prize">Kalinga Prize</a> <small>(1986)</small><br><a href="/wiki/Lomonosov_Gold_Medal" title="Lomonosov Gold Medal">Lomonosov Gold Medal</a> <small>(1989)</small></br></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>

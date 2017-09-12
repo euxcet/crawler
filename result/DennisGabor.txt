@@ -1,0 +1,58 @@
+Dennis Gabor
+
+*** Born ***
+<td><span class="nickname">Günszberg Dénes</span><br><span style="display:none">(<span class="bday">1900-06-05</span>)</span>5 June 1900<br><span class="birthplace"><a href="/wiki/Budapest" title="Budapest">Budapest</a>, <a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Kingdom of Hungary</a></span></br></br></td>
+
+*** Died ***
+<td>9 February 1979<span style="display:none">(<span class="dday deathdate">1979-02-09</span>)</span> (aged 78)<br><span class="deathplace">London, England</span></br></td>
+
+*** Citizenship ***
+<td class="category"><a class="mw-redirect" href="/wiki/Hungarian_people" title="Hungarian people">Hungarian</a> / British</td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Technical_University_of_Berlin" title="Technical University of Berlin">Technical University of Berlin</a></li>
+<li><a class="mw-redirect" href="/wiki/Technical_University_of_Budapest" title="Technical University of Budapest">Technical University of Budapest</a></li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Holography" title="Holography">Holography</a></li>
+<li><a href="/wiki/Gabor_filter" title="Gabor filter">Gabor filter</a></li>
+<li><a class="mw-redirect" href="/wiki/Gabor_limit" title="Gabor limit">Gabor limit</a></li>
+<li><a href="/wiki/Gabor_transform" title="Gabor transform">Gabor transform</a></li>
+<li><a href="/wiki/Gabor_atom" title="Gabor atom">Gabor atom</a></li>
+<li><a href="/wiki/Gabor_wavelet" title="Gabor wavelet">Gabor wavelet</a></li>
+</ul></div>
+</td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Dennis Gabor">Marjorie Louise Butler (<abbr title="married">m.</abbr> 1936)</span> (1911–1981)</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> <small>(1956)</small><sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+<li><a href="/wiki/Young_Medal_and_Prize" title="Young Medal and Prize">Young Medal and Prize</a> <small>(1967)</small></li>
+<li><a href="/wiki/Rumford_Medal" title="Rumford Medal">Rumford Medal</a> <small>(1968)</small></li>
+<li><a href="/wiki/IEEE_Medal_of_Honor" title="IEEE Medal of Honor">IEEE Medal of Honor</a> <small>(1970)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(1971)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Electrical_engineering" title="Electrical engineering">Electrical engineering</a> <a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral students ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a></li>
+<li><a href="/wiki/British_Thomson-Houston" title="British Thomson-Houston">British Thomson-Houston</a></li>
+</ul></div>
+</td>

@@ -1,0 +1,25 @@
+Willem Einthoven
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1860-05-21</span>)</span>21 May 1860<br><span class="birthplace"><a href="/wiki/Semarang" title="Semarang">Semarang</a>, <a href="/wiki/Dutch_East_Indies" title="Dutch East Indies">Dutch East Indies</a></span></br></td>
+
+*** Died ***
+<td>29 September 1927<span style="display:none">(<span class="dday deathdate">1927-09-29</span>)</span> (aged 67)<br><span class="deathplace"><a href="/wiki/Leiden" title="Leiden">Leiden</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Netherlands" title="Netherlands">Dutch</a></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Utrecht" title="University of Utrecht">University of Utrecht</a></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Electrocardiogram" title="Electrocardiogram">Electrocardiogram</a></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Nobel_Prize_in_Medicine" title="Nobel Prize in Medicine">Nobel Prize in Medicine</a> in 1924</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physiology" title="Physiology">Physiology</a></td>

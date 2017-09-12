@@ -1,0 +1,26 @@
+Gerd Binnig
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1947-07-20</span>)</span> 20 July 1947 <span class="noprint ForceAgeToShow">(age 70)</span><br><span class="birthplace"><a class="mw-redirect" href="/wiki/Frankfurt_am_Main" title="Frankfurt am Main">Frankfurt am Main</a></span></br></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Goethe_University_Frankfurt" title="Goethe University Frankfurt">J.W. Goethe University, Frankfurt</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Scanning_tunneling_microscope" title="Scanning tunneling microscope">Scanning tunneling microscope</a>, <a class="mw-redirect" href="/wiki/Atomic_force_microscope" title="Atomic force microscope">atomic force microscope</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1986)<br><a href="/wiki/Elliott_Cresson_Medal" title="Elliott Cresson Medal">The Elliott Cresson Medal</a> (1987)</br></span><br><a href="/wiki/Kavli_Prize" title="Kavli Prize">Kavli Prize</a> (2016)</br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/IBM_Zurich_Research_Laboratory" title="IBM Zurich Research Laboratory">IBM Zurich Research Laboratory</a></td>
+
+*** Doctoral students ***
+<td>Werner Martienssen<br>
+Eckhardt Hoenig</br></td>

@@ -1,0 +1,28 @@
+Robert C. Merton
+
+*** Born ***
+<td><span class="nickname">Robert C. Merton</span><br><span style="display:none">(<span class="bday">1944-07-31</span>)</span> July 31, 1944 <span class="noprint ForceAgeToShow">(age 73)</span><br><span class="birthplace"><a class="mw-redirect" href="/wiki/New_York_City,_New_York" title="New York City, New York">New York City, New York</a>, <a href="/wiki/United_States" title="United States">USA</a></span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Americans" title="Americans">American</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><br><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a><br><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></br></br></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Black%E2%80%93Scholes" title="Black–Scholes">Black–Scholes</a> model<br><a class="mw-redirect" href="/wiki/ICAPM" title="ICAPM">ICAPM</a><br><a href="/wiki/Merton%27s_portfolio_problem" title="Merton's portfolio problem">Merton's portfolio problem</a><br><a class="new" href="/w/index.php?title=Merton_model&amp;action=edit&amp;redlink=1" title="Merton model (page does not exist)">Merton model</a><br><a href="/wiki/Jarrow%E2%80%93Turnbull_model" title="Jarrow–Turnbull model">Jarrow–Turnbull model</a><br><a href="/wiki/Long-Term_Capital_Management" title="Long-Term Capital Management">Long-Term Capital Management</a></br></br></br></br></br></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a> (1997)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Finance" title="Finance">Finance</a>, <a href="/wiki/Economics" title="Economics">Economics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a><br><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></br></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Paul_Samuelson" title="Paul Samuelson">Paul Samuelson</a></td>

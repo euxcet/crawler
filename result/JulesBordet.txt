@@ -1,0 +1,21 @@
+Jules Bordet
+
+*** Born ***
+<td><span class="nickname">Jules Jean Baptiste Vincent Bordet</span><br><span style="display:none">(<span class="bday">1870-06-13</span>)</span>13 June 1870</br></td>
+
+*** Died ***
+<td>6 April 1961<span style="display:none">(<span class="dday deathdate">1961-04-06</span>)</span> (aged 90)</td>
+
+*** Resting place ***
+<td class="label"><a href="/wiki/Ixelles_Cemetery" title="Ixelles Cemetery">Ixelles Cemetery</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Free_University_of_Brussels" title="Free University of Brussels">Free University of Brussels</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">Fellow of the Royal Society</a> (1916)<sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1919)</li>
+</ul></div>
+</td>

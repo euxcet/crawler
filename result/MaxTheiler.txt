@@ -1,0 +1,22 @@
+Max Theiler
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1899-01-30</span>)</span>30 January 1899<br><span class="birthplace"><a href="/wiki/Pretoria" title="Pretoria">Pretoria</a>, <a href="/wiki/South_African_Republic" title="South African Republic">South African Republic</a> (present-day <a href="/wiki/South_Africa" title="South Africa">South Africa</a>)</span></br></td>
+
+*** Died ***
+<td>11 August 1972<span style="display:none">(<span class="dday deathdate">1972-08-11</span>)</span> (aged 73)<br><span class="deathplace"><a href="/wiki/New_Haven,_Connecticut" title="New Haven, Connecticut">New Haven, Connecticut</a>, <a href="/wiki/United_States" title="United States">USA</a></span></br></td>
+
+*** Residence ***
+<td>USA</td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/South_Africa" title="South Africa">South African</a>, <a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Known for ***
+<td>Developing a <a href="/wiki/Vaccine" title="Vaccine">vaccine</a> against <a href="/wiki/Yellow_fever" title="Yellow fever">yellow fever</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Lasker-DeBakey_Clinical_Medical_Research_Award" title="Lasker-DeBakey Clinical Medical Research Award">Lasker-DeBakey Clinical Medical Research Award</a> <small>(1949)</small><br><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> <small>(1951)</small></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

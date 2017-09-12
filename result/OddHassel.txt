@@ -1,0 +1,19 @@
+Odd Hassel
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1897-05-17</span>)</span>17 May 1897<br><span class="birthplace"><a href="/wiki/Oslo" title="Oslo">Kristiania</a>, Norway</span></br></td>
+
+*** Died ***
+<td>11 May 1981<span style="display:none">(<span class="dday deathdate">1981-05-11</span>)</span> (aged 83)<br><span class="deathplace">Never married</span></br></td>
+
+*** Nationality ***
+<td class="category">Norway</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Oslo" title="University of Oslo">University of Oslo</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (1969)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

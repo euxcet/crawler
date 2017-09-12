@@ -1,0 +1,48 @@
+Peter Higgs
+
+*** Born ***
+<td><span class="nickname">Peter Ware Higgs</span><br><span style="display:none">(<span class="bday">1929-05-29</span>)</span> 29 May 1929 <span class="noprint ForceAgeToShow">(age 88)</span><br><span class="birthplace"><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a>, England</span></br></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a>, Scotland</td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/British_people" title="British people">British</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+
+*** Alma mater ***
+<td><a href="/wiki/King%27s_College_London" title="King's College London">King's College London</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Higgs_boson" title="Higgs boson">Higgs boson</a><br><a class="mw-redirect" href="/wiki/Higgs_field" title="Higgs field">Higgs field</a><br><a href="/wiki/Higgs_mechanism" title="Higgs mechanism">Higgs mechanism</a><br><a href="/wiki/Symmetry_breaking" title="Symmetry breaking">Symmetry breaking</a></br></br></br></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (2013)</li>
+<li><a href="/wiki/Wolf_Prize_in_Physics" title="Wolf Prize in Physics">Wolf Prize in Physics</a> (2004)</li>
+<li><a href="/wiki/Sakurai_Prize" title="Sakurai Prize">Sakurai Prize</a> (2010)</li>
+<li><a href="/wiki/Dirac_Medal" title="Dirac Medal">Dirac Medal</a> (1997)</li>
+<li><a href="/wiki/Rutherford_Medal_and_Prize" title="Rutherford Medal and Prize">Rutherford Medal</a> (1984)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (1983)</li>
+<li><a href="/wiki/Hughes_Medal" title="Hughes Medal">Hughes Medal</a> (1981)</li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> (2015)</li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://www.ph.ed.ac.uk/higgs" rel="nofollow">www<wbr></wbr>.ph<wbr></wbr>.ed<wbr></wbr>.ac<wbr></wbr>.uk<wbr></wbr>/higgs</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical physics</a></td>
+
+*** Thesis ***
+<td><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a><br><a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a><br><a href="/wiki/University_College_London" title="University College London">University College London</a><br><a href="/wiki/King%27s_College_London" title="King's College London">King's College London</a></br></br></br></td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.572829" rel="nofollow"><i>Some problems in the theory of molecular vibrations</i></a> <span style="font-size:90%;">(1955)</span></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Charles_Coulson" title="Charles Coulson">Charles Coulson</a><sup class="reference" id="cite_ref-mathgene_2-0"><a href="#cite_note-mathgene-2">[2]</a></sup><br><a class="mw-redirect" href="/wiki/H._Christopher_Longuet-Higgins" title="H. Christopher Longuet-Higgins">Christopher Longuet-Higgins</a> <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></br></td>

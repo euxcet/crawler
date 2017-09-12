@@ -1,0 +1,39 @@
+Simon Kuznets
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1901-04-30</span>)</span>April 30, 1901<br><span class="birthplace"><a href="/wiki/Pinsk" title="Pinsk">Pinsk</a>,<sup class="reference" id="cite_ref-Noble_Prize_Laureates_Database_1-0"><a href="#cite_note-Noble_Prize_Laureates_Database-1">[1]</a></sup> <a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a> (present-day <a href="/wiki/Belarus" title="Belarus">Belarus</a>)</span></br></td>
+
+*** Died ***
+<td>July 8, 1985<span style="display:none">(<span class="dday deathdate">1985-07-08</span>)</span> (aged 84)<br><span class="deathplace"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a class="mw-redirect" href="/wiki/NBER" title="NBER">NBER</a><br><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>,<br><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (1960–1971)<br><a href="/wiki/Johns_Hopkins_University" title="Johns Hopkins University">Johns Hopkins University</a> (1954–1960)<br><a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a> (1930–1954)</br></br></br></br></td>
+
+*** School or
+tradition ***
+<td class="category"><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a>, <a href="/wiki/Development_economics" title="Development economics">development economics</a></td>
+
+*** Alma mater ***
+<td class="category"><a href="/wiki/Institutional_economics" title="Institutional economics">Institutional economics</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>,<br><a href="/wiki/Kharkiv_National_University_of_Economics" title="Kharkiv National University of Economics">Kharkiv Institute of Commerce</a></br></td>
+
+*** Doctoral
+students ***
+<td><a href="/wiki/Wesley_Clair_Mitchell" title="Wesley Clair Mitchell">Wesley Clair Mitchell</a></td>
+
+*** Contributions ***
+<td><a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a><br><a class="new" href="/w/index.php?title=Jacob_Schmookler&amp;action=edit&amp;redlink=1" title="Jacob Schmookler (page does not exist)">Jacob Schmookler</a><br><a href="/wiki/Richard_Easterlin" title="Richard Easterlin">Richard Easterlin</a><br><a href="/wiki/Stanley_Engerman" title="Stanley Engerman">Stanley Engerman</a><br><a href="/wiki/Robert_Fogel" title="Robert Fogel">Robert Fogel</a><br><a href="/wiki/Subramanian_Swamy" title="Subramanian Swamy">Subramanian Swamy</a><br><a href="/wiki/Lance_Taylor_(economist)" title="Lance Taylor (economist)">Lance Taylor</a></br></br></br></br></br></br></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/National_income" title="National income">National income</a> data<br>
+Empirical <a href="/wiki/Business_cycle" title="Business cycle">business cycle</a> research<br>
+Characteristics of <a href="/wiki/Economic_growth" title="Economic growth">economic growth</a></br></br></td>

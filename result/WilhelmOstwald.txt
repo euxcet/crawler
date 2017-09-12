@@ -1,0 +1,31 @@
+Wilhelm Ostwald
+
+*** Born ***
+<td><span class="nickname">Friedrich Wilhelm Ostwald</span><br><span style="display:none">(<span class="bday">1853-09-02</span>)</span>2 September 1853<br><span class="birthplace"><a href="/wiki/Riga" title="Riga">Riga</a>, <a href="/wiki/Governorate_of_Livonia" title="Governorate of Livonia">Governorate of Livonia</a>, <a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a> (now <a href="/wiki/Latvia" title="Latvia">Latvia</a>)</span></br></br></td>
+
+*** Died ***
+<td>4 April 1932<span style="display:none">(<span class="dday deathdate">1932-04-04</span>)</span> (aged 78)<br><span class="deathplace"><a href="/wiki/Gro%C3%9Fbothen" title="Großbothen">Großbothen</a> near <a href="/wiki/Leipzig" title="Leipzig">Leipzig</a>, <a href="/wiki/Weimar_Republic" title="Weimar Republic">Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a class="mw-redirect" href="/wiki/Baltic_German" title="Baltic German">Baltic German</a> by birth. <a class="mw-redirect" href="/wiki/Prussian" title="Prussian">Prussian</a>, <a href="/wiki/Germans" title="Germans">German</a> (after 1871)</td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Dorpat" title="University of Dorpat">University of Dorpat</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Catalysis" title="Catalysis">Catalysis</a><br><a href="/wiki/Mole_(unit)" title="Mole (unit)">Coining the term 'Mole'</a><br><a href="/wiki/HSL_and_HSV" title="HSL and HSV">HSL and HSV</a><br><a href="/wiki/Liesegang_rings_(geology)" title="Liesegang rings (geology)">Liesegang rings</a><br><a class="mw-redirect" href="/wiki/Ostwald_dilution_law" title="Ostwald dilution law">Ostwald dilution law</a><br><a href="/wiki/Ostwald_process" title="Ostwald process">Ostwald process</a><br><a href="/wiki/Ostwald_ripening" title="Ostwald ripening">Ostwald ripening</a><br><a class="mw-redirect" href="/wiki/Ostwald%27s_rule" title="Ostwald's rule">Ostwald's rule</a><br><a href="/wiki/Viscometer" title="Viscometer">Ostwald viscometer</a><br><a href="/wiki/Pipette" title="Pipette">Ostwald-Folin Pipette</a><br><a href="/wiki/Ostwald%E2%80%93Freundlich_equation" title="Ostwald–Freundlich equation">Ostwald–Freundlich equation</a></br></br></br></br></br></br></br></br></br></br></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> (1909)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Chemistry" title="Chemistry">Physical chemistry</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/University_of_Dorpat" title="University of Dorpat">University of Dorpat</a><br><a class="mw-redirect" href="/wiki/Riga_Polytechnicum" title="Riga Polytechnicum">Riga Polytechnicum</a><br><a class="mw-redirect" href="/wiki/University_of_Leipzig" title="University of Leipzig">University of Leipzig</a></br></br></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Carl_Schmidt_(chemist)" title="Carl Schmidt (chemist)">Carl Schmidt</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup></td>

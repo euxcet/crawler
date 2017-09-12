@@ -1,0 +1,30 @@
+Robert Huber
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1937-02-20</span>)</span> February 20, 1937 <span class="noprint ForceAgeToShow">(age 80)</span><br><span class="birthplace"><a href="/wiki/Munich" title="Munich">Munich</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Germany" title="Germany">Germany</a></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Technische_Universit%C3%A4t_M%C3%BCnchen" title="Technische Universität München">Technical University Munich</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Cyanobacteria" title="Cyanobacteria">Cyanobacteria</a> <a href="/wiki/Crystallography" title="Crystallography">Crystallography</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (1988)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> (1999)<sup class="reference" id="cite_ref-royal_1-0"><a href="#cite_note-royal-1">[1]</a></sup><sup class="reference" id="cite_ref-formemrs_2-0"><a href="#cite_note-formemrs-2">[2]</a></sup></li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://www.biochem.mpg.de/en/eg/huber" rel="nofollow">www<wbr></wbr>.biochem<wbr></wbr>.mpg<wbr></wbr>.de<wbr></wbr>/en<wbr></wbr>/eg<wbr></wbr>/huber</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Notable students ***
+<td class="category"><a href="/wiki/Biochemist" title="Biochemist">Biochemist</a></td>

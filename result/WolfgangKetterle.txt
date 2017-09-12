@@ -1,0 +1,33 @@
+Wolfgang Ketterle
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1957-10-21</span>)</span> 21 October 1957 <span class="noprint ForceAgeToShow">(age 59)</span><br><span class="birthplace"><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category">Germany, United States</td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Heidelberg" title="University of Heidelberg">Heidelberg</a><br><a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">TUM</a><br><a href="/wiki/Ludwig_Maximilian_University_of_Munich" title="Ludwig Maximilian University of Munich">LMU</a><br><a href="/wiki/Max_Planck_Institute_of_Quantum_Optics" title="Max Planck Institute of Quantum Optics">Max Planck Institute of Quantum Optics</a></br></br></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensates</a></td>
+
+*** Spouse(s) ***
+<td>Gabriele Sauer</td>
+
+*** Children ***
+<td>Jonas<br>
+Johanna<br>
+Holger</br></br></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/The_Franklin_Institute_Awards" title="The Franklin Institute Awards">Benjamin Franklin Medal</a> <small>(2000)</small><br><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physics" title="Nobel Prize for Physics">Nobel Prize for Physics</a> <small>(2001)</small></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/University_of_Heidelberg" title="University of Heidelberg">University of Heidelberg</a><br><a class="mw-redirect" href="/wiki/MIT" title="MIT">MIT</a></br></td>

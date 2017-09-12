@@ -1,0 +1,16 @@
+Emily Greene Balch
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1867-01-08</span>)</span>January 8, 1867<br><span class="birthplace"><a class="mw-redirect" href="/wiki/Boston,_Massachusetts" title="Boston, Massachusetts">Boston, Massachusetts</a>, U.S.</span></br></td>
+
+*** Died ***
+<td>January 9, 1961<span style="display:none">(<span class="dday deathdate">1961-01-09</span>)</span> (aged 94)<br><span class="deathplace"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, U.S.</span></br></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Occupation ***
+<td class="role">Writer, economist, professor</td>
+
+*** Known for ***
+<td><a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> in 1946</td>

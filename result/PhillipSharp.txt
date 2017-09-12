@@ -1,0 +1,47 @@
+Phillip Sharp
+
+*** Born ***
+<td><span class="nickname">Phillip Allen Sharp</span><br><span style="display:none">(<span class="bday">1944-06-06</span>)</span> June 6, 1944 <span class="noprint ForceAgeToShow">(age 73)</span><br><span class="birthplace"><a href="/wiki/Falmouth,_Kentucky" title="Falmouth, Kentucky">Falmouth, Kentucky</a></span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Union_College_(Kentucky)" title="Union College (Kentucky)">Union College</a></li>
+<li><a href="/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign" title="University of Illinois at Urbana–Champaign">University of Illinois at Urbana–Champaign</a></li>
+</ul></div>
+</td>
+
+*** Spouse(s) ***
+<td>Ann Holcombe</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/NAS_Award_in_Molecular_Biology" title="NAS Award in Molecular Biology">NAS Award in Molecular Biology</a> (1980)</li>
+<li><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> (1988)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/Dickson_Prize" title="Dickson Prize">Dickson Prize</a> (1991)</li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize</a> (1993)</li>
+<li><a href="/wiki/National_Medal_of_Science" title="National Medal of Science">National Medal of Science</a> (2004)</li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://web.mit.edu/sharplab" rel="nofollow">web<wbr></wbr>.mit<wbr></wbr>.edu<wbr></wbr>/sharplab</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Biologist" title="Biologist">Biologist</a></td>
+
+*** Doctoral students ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/Caltech" title="Caltech">Caltech</a></li>
+<li><a href="/wiki/Cold_Spring_Harbor_Laboratory" title="Cold Spring Harbor Laboratory">Cold Spring Harbor Laboratory</a></li>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></li>
+</ul></div>
+</td>

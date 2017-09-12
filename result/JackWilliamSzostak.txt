@@ -1,0 +1,31 @@
+Jack William Szostak
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1952-11-09</span>)</span> November 9, 1952 <span class="noprint ForceAgeToShow">(age 64)</span><br><span class="birthplace"><a href="/wiki/London" title="London">London</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Citizenship ***
+<td class="category"><a href="/wiki/Canada" title="Canada">Canada</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/McGill_University" title="McGill University">McGill University</a><br><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></br></td>
+
+*** Awards ***
+<td><span class="nowrap"><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physiology_or_Medicine" title="Nobel Prize for Physiology or Medicine">Nobel Prize for Physiology or Medicine</a> <small>(2009)</small><br><a href="/wiki/Lasker_Award" title="Lasker Award">Lasker Award</a> <small>(2006)</small><br><a href="/wiki/NAS_Award_in_Molecular_Biology" title="NAS Award in Molecular Biology">NAS Award in Molecular Biology</a> <small>(1994)</small></br></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Biochemistry" title="Biochemistry">Biochemistry</a><br><a href="/wiki/Genetics" title="Genetics">Genetics</a><br><a class="mw-redirect" href="/wiki/Synthetic_Biology" title="Synthetic Biology">Synthetic Biology</a></br></br></td>
+
+*** Thesis ***
+<td><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a><br><a href="/wiki/Howard_Hughes_Medical_Institute" title="Howard Hughes Medical Institute">Howard Hughes Medical Institute</a></br></td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://search.proquest.com/docview/302853024/" rel="nofollow"><i>Specific binding of a synthetic oligonucleotide to the yeast iso-1 cytochrome c̲ mRNA and gene</i></a> <span style="font-size:90%;">(1977)</span></td>
+
+*** Notable students ***
+<td><a href="/wiki/Ray_Wu" title="Ray Wu">Ray Wu</a></td>

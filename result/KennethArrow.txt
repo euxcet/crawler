@@ -1,0 +1,47 @@
+Kenneth Arrow
+
+*** Born ***
+<td><span class="nickname">Kenneth Joseph Arrow</span><br><span style="display:none">(<span class="bday">1921-08-23</span>)</span>23 August 1921<br><span class="birthplace"><a href="/wiki/New_York_City" title="New York City">New York City</a>, United States</span></br></br></td>
+
+*** Died ***
+<td>21 February 2017<span style="display:none">(<span class="dday deathdate">2017-02-21</span>)</span> (aged 95)<br><span class="deathplace"><a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto, California</a>, United States</span></br></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://healthpolicy.fsi.stanford.edu/people/kenneth_j_arrow" rel="nofollow">healthpolicy<wbr></wbr>.fsi<wbr></wbr>.stanford<wbr></wbr>.edu<wbr></wbr>/people<wbr></wbr>/kenneth<wbr></wbr>_j<wbr></wbr>_arrow</a></span></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>
+
+*** School or
+tradition ***
+<td class="category"><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a><br><a href="/wiki/General_equilibrium_theory" title="General equilibrium theory">General equilibrium theory</a><br><a href="/wiki/Social_choice_theory" title="Social choice theory">Social choice theory</a></br></br></td>
+
+*** Alma mater ***
+<td class="category"><a href="/wiki/Neoclassical_economics" title="Neoclassical economics">Neoclassical economics</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/City_College_of_New_York" title="City College of New York">City College of New York</a><br><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a></br></td>
+
+*** Doctoral
+students ***
+<td><a href="/wiki/Harold_Hotelling" title="Harold Hotelling">Harold Hotelling</a></td>
+
+*** Influences ***
+<td><a href="/wiki/John_Harsanyi" title="John Harsanyi">John C. Harsanyi</a><br><a class="new" href="/w/index.php?title=Menahem_E._Yaari&amp;action=edit&amp;redlink=1" title="Menahem E. Yaari (page does not exist)">Menahem E. Yaari</a><span class="noprint" style="font-size:85%; font-style: normal;"> (<a class="extiw" href="https://de.wikipedia.org/wiki/Menahem_E._Yaari" title="de:Menahem E. Yaari">de</a>)</span><br><a href="/wiki/Michael_Bruno" title="Michael Bruno">Michael Bruno</a><br><a href="/wiki/Jan_Kmenta" title="Jan Kmenta">Jan Kmenta</a><br><a href="/wiki/Karl_Shell" title="Karl Shell">Karl Shell</a><br><a href="/wiki/Michael_Spence" title="Michael Spence">A. Michael Spence</a><br><a href="/wiki/Jean-Jacques_Laffont" title="Jean-Jacques Laffont">Jean-Jacques Laffont</a><br><a class="mw-redirect" href="/wiki/Eric_S._Maskin" title="Eric S. Maskin">Eric S. Maskin</a><br><a href="/wiki/Roger_Myerson" title="Roger Myerson">Roger Myerson</a><br><a href="/wiki/Nancy_Stokey" title="Nancy Stokey">Nancy Stokey</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><br><a href="/wiki/John_Geanakoplos" title="John Geanakoplos">John Geanakoplos</a><br><a href="/wiki/Andrea_Prat" title="Andrea Prat">Andrea Prat</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></br></br></br></br></br></br></br></br></br></br></br></td>
+
+*** Contributions ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Alfred_Tarski" title="Alfred Tarski">Alfred Tarski</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup></li>
+</ul></div>
+</td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/General_equilibrium" title="General equilibrium">General equilibrium theory</a><br><a href="/wiki/Fundamental_theorems_of_welfare_economics" title="Fundamental theorems of welfare economics">Fundamental theorems of welfare economics</a><br><a href="/wiki/Arrow%27s_impossibility_theorem" title="Arrow's impossibility theorem">Arrow's impossibility theorem</a><br><a href="/wiki/Endogenous_growth_theory" title="Endogenous growth theory">Endogenous growth theory</a></br></br></br></td>

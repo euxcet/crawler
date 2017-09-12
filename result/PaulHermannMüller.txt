@@ -1,0 +1,28 @@
+Paul Hermann Müller
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1899-01-12</span>)</span>12 January 1899<br><span class="birthplace"><a href="/wiki/Olten" title="Olten">Olten</a>, <a href="/wiki/Solothurn" title="Solothurn">Solothurn</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Died ***
+<td>12 October 1965<span style="display:none">(<span class="dday deathdate">1965-10-12</span>)</span> (aged 66)<br><span class="deathplace"><a href="/wiki/Basel" title="Basel">Basel</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Switzerland" title="Switzerland">Swiss</a></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Universit%C3%A4t_Basel" title="Universität Basel">Universität Basel</a></td>
+
+*** Known for ***
+<td>Insecticidal applications of <a class="mw-redirect" href="/wiki/DDT" title="DDT">DDT</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1948)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/J._R._Geigy_AG" title="J. R. Geigy AG">J. R. Geigy AG</a></td>

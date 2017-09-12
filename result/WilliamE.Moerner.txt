@@ -1,0 +1,25 @@
+William E. Moerner
+
+*** Born ***
+<td><span class="nickname">William Esco Moerner</span><br><span style="display:none">(<span class="bday">1953-06-24</span>)</span> June 24, 1953 <span class="noprint ForceAgeToShow">(age 64)</span><br><span class="birthplace"><a href="/wiki/Pleasanton,_California" title="Pleasanton, California">Pleasanton, California</a></span></br></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Washington_University_in_St._Louis" title="Washington University in St. Louis">Washington University in St. Louis</a>, <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Wolf_Prize_in_Chemistry" title="Wolf Prize in Chemistry">Wolf Prize in Chemistry</a> <small>(2008)</small><br><a href="/wiki/Irving_Langmuir_Award" title="Irving Langmuir Award">Irving Langmuir Award</a> <small>(2009)</small><br><a href="/wiki/Peter_Debye_Award" title="Peter Debye Award">Peter Debye Award</a><br><small>(2013)</small><br><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> <small>(2014)</small></br></br></br></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>, <a href="/wiki/Applied_physics" title="Applied physics">applied physics</a>, <a href="/wiki/Biophysics" title="Biophysics">biophysics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>

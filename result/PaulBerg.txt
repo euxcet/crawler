@@ -1,0 +1,39 @@
+Paul Berg
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1926-06-30</span>)</span> June 30, 1926 <span class="noprint ForceAgeToShow">(age 91)</span><br><span class="birthplace"><a href="/wiki/Brooklyn" title="Brooklyn">Brooklyn</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">U.S.</a></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Pennsylvania_State_University" title="Pennsylvania State University">Pennsylvania State University</a> (BS)</li>
+<li><a href="/wiki/Case_Western_Reserve_University" title="Case Western Reserve University">Case Western Reserve University</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td><a href="/wiki/Recombinant_DNA" title="Recombinant DNA">Recombinant DNA</a></td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Paul Berg">Mildred Levy (<abbr title="married">m.</abbr> 1947)</span></td>
+
+*** Children ***
+<td>one<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> <small>(1980)</small></li>
+<li><a class="mw-redirect" href="/wiki/AAAS_Award_for_Scientific_Freedom_and_Responsibility" title="AAAS Award for Scientific Freedom and Responsibility">AAAS Award for Scientific Freedom and Responsibility</a> <small>(1982)</small></li>
+<li><a href="/wiki/National_Medal_of_Science" title="National Medal of Science">National Medal of Science</a> <small>(1983)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Biochemistry" title="Biochemistry">Biochemistry</a></td>

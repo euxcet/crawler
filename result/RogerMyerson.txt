@@ -1,0 +1,31 @@
+Roger Myerson
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1951-03-29</span>)</span> March 29, 1951 <span class="noprint ForceAgeToShow">(age 66)</span><br><span class="birthplace"><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a><br><a href="/wiki/Northwestern_University" title="Northwestern University">Northwestern University</a></br></td>
+
+*** Alma mater ***
+<td class="category"><a href="/wiki/Game_theory" title="Game theory">Game theory</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+
+*** Doctoral
+students ***
+<td><a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">Kenneth Arrow</a></td>
+
+*** Contributions ***
+<td>Michael Chwe<br><a href="/wiki/Scott_E._Page" title="Scott E. Page">Scott E. Page</a><br>
+Aytek Erdil</br></br></td>
+
+*** Awards ***
+<td><a href="/wiki/Mechanism_design" title="Mechanism design">Mechanism design</a></td>

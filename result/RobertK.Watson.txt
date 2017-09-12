@@ -1,0 +1,22 @@
+Robert K. Watson
+
+*** Born ***
+<td><span class="birthplace"><a href="/wiki/Chicago" title="Chicago">Chicago</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a></span></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Education ***
+<td>Master of Business Administration (MBA), Master of Science (MS)</td>
+
+*** Occupation ***
+<td class="role"><a href="/wiki/Environmentalist" title="Environmentalist">Environmentalist</a></td>
+
+*** Employer ***
+<td class="org">The ECON Group</td>
+
+*** Known for ***
+<td>"Father of LEED"</td>
+
+*** Awards ***
+<td>See <a href="#Awards">Awards</a></td>

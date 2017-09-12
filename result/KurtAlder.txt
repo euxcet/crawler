@@ -1,0 +1,26 @@
+Kurt Alder
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1902-07-10</span>)</span>10 July 1902<br><span class="birthplace"><a class="mw-redirect" href="/wiki/K%C3%B6nigsh%C3%BCtte" title="Königshütte">Königshütte</a> (Chorzów), <a class="mw-redirect" href="/wiki/Silesia_Province" title="Silesia Province">Silesia</a><br>
+(present day <a href="/wiki/Poland" title="Poland">Poland</a>)</br></span></br></td>
+
+*** Died ***
+<td>20 June 1958<span style="display:none">(<span class="dday deathdate">1958-06-20</span>)</span> (aged 55)<br><span class="deathplace"><a href="/wiki/Cologne" title="Cologne">Cologne</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category">German</td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Berlin" title="University of Berlin">University of Berlin</a><br><a href="/wiki/University_of_Kiel" title="University of Kiel">University of Kiel</a></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Diels%E2%80%93Alder_reaction" title="Diels–Alder reaction">Diels–Alder reaction</a></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> (1950)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Organic_chemistry" title="Organic chemistry">Organic chemistry</a></td>

@@ -1,0 +1,40 @@
+Lars Peter Hansen
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1952-10-26</span>)</span> October 26, 1952 <span class="noprint ForceAgeToShow">(age 64)</span><br><span class="birthplace"><a href="/wiki/Urbana,_Illinois" title="Urbana, Illinois">Urbana, Illinois</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://larspeterhansen.org" rel="nofollow">larspeterhansen<wbr></wbr>.org</a></span></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a><br><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a></br></td>
+
+*** School or
+tradition ***
+<td class="category"><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a></td>
+
+*** Alma mater ***
+<td class="category"><a class="mw-redirect" href="/wiki/Chicago_School_of_Economics" title="Chicago School of Economics">Chicago School of Economics</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a> <small>(Ph.D.)</small><br><a href="/wiki/Utah_State_University" title="Utah State University">Utah State University</a> <small>(B.Sc.)</small></br></td>
+
+*** Doctoral
+students ***
+<td><a href="/wiki/Christopher_A._Sims" title="Christopher A. Sims">Christopher A. Sims</a></td>
+
+*** Influences ***
+<td><a href="/wiki/Narayana_Kocherlakota" title="Narayana Kocherlakota">Narayana Kocherlakota</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><br><a href="/wiki/Masao_Ogaki" title="Masao Ogaki">Masao Ogaki</a><br><a class="new" href="/w/index.php?title=Erzo_G.J._Luttmer&amp;action=edit&amp;redlink=1" title="Erzo G.J. Luttmer (page does not exist)">Erzo G.J. Luttmer</a></br></br></td>
+
+*** Contributions ***
+<td><a href="/wiki/Thomas_J._Sargent" title="Thomas J. Sargent">Thomas J. Sargent</a>, <a href="/wiki/Christopher_A._Sims" title="Christopher A. Sims">Christopher A. Sims</a></td>
+
+*** Awards ***
+<td>Generalized method of moments, robust control applied to macroeconomics and asset pricing</td>

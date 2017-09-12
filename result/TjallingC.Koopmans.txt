@@ -1,0 +1,31 @@
+Tjalling C. Koopmans
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1910-08-28</span>)</span>August 28, 1910<br><span class="birthplace"><a href="/wiki/%27s-Graveland" title="'s-Graveland">'s-Graveland</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></span></br></td>
+
+*** Died ***
+<td>February 26, 1985<span style="display:none">(<span class="dday deathdate">1985-02-26</span>)</span> (aged 74)<br><span class="deathplace"><a href="/wiki/New_Haven,_Connecticut" title="New Haven, Connecticut">New Haven, Connecticut</a>, <a href="/wiki/United_States" title="United States">USA</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Netherlands" title="Netherlands">Dutch</a>, <a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Utrecht" title="University of Utrecht">University of Utrecht</a><br><a class="mw-redirect" href="/wiki/University_of_Leiden" title="University of Leiden">University of Leiden</a></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Ramsey%E2%80%93Cass%E2%80%93Koopmans_model" title="Ramsey–Cass–Koopmans model">Ramsey–Cass–Koopmans model</a><br><a href="/wiki/Koopmans%27_theorem" title="Koopmans' theorem">Koopmans' theorem</a></br></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a> (1975)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Doctoral advisor ***
+<td class="category"><a href="/wiki/Economics" title="Economics">Economics</a>, <a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Hans_Kramers" title="Hans Kramers">Hans Kramers</a><br><a href="/wiki/Jan_Tinbergen" title="Jan Tinbergen">Jan Tinbergen</a></br></td>
+
+*** Influenced ***
+<td><a href="/wiki/Carl_Christ" title="Carl Christ">Carl Christ</a><br><a href="/wiki/Stanley_Reiter" title="Stanley Reiter">Stanley Reiter</a><br><a class="new" href="/w/index.php?title=Rolf_Mantel&amp;action=edit&amp;redlink=1" title="Rolf Mantel (page does not exist)">Rolf Mantel</a><span class="noprint" style="font-size:85%; font-style: normal;"> (<a class="extiw" href="https://es.wikipedia.org/wiki/Rolf_Mantel" title="es:Rolf Mantel">es</a>)</span><br><a href="/wiki/Guillermo_Calvo" title="Guillermo Calvo">Guillermo Calvo</a></br></br></br></td>

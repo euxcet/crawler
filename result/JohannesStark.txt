@@ -1,0 +1,28 @@
+Johannes Stark
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1874-04-15</span>)</span>15 April 1874<br><span class="birthplace"><a href="/wiki/Freihung" title="Freihung">Schickenhof</a>, <a href="/wiki/German_Empire" title="German Empire">German Empire</a></span></br></td>
+
+*** Died ***
+<td>21 June 1957<span style="display:none">(<span class="dday deathdate">1957-06-21</span>)</span> (aged 83)<br><span class="deathplace"><a href="/wiki/Traunstein" title="Traunstein">Traunstein</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Germany" title="Germany">Germany</a></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Munich" title="University of Munich">University of Munich</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Stark_effect" title="Stark effect">Stark effect</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Matteucci_Medal" title="Matteucci Medal">Matteucci Medal</a> <small>(1915)</small><br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(1919)</small></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a><br><a class="mw-redirect" href="/wiki/Leibniz_University_of_Hannover" title="Leibniz University of Hannover">Technische Hochschule, Hannover</a><br><a class="mw-redirect" href="/wiki/RWTH_Aachen" title="RWTH Aachen">Technische Hochschule, Aachen</a><br><a href="/wiki/University_of_Greifswald" title="University of Greifswald">University of Greifswald</a><br><a href="/wiki/University_of_W%C3%BCrzburg" title="University of Würzburg">University of Würzburg</a></br></br></br></br></td>

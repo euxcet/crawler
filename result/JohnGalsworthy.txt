@@ -1,0 +1,21 @@
+John Galsworthy
+
+*** Born ***
+<td style="line-height:1.4em;"><span style="display:none">(<span class="bday">1867-08-14</span>)</span>14 August 1867<br><a href="/wiki/Kingston_upon_Thames" title="Kingston upon Thames">Kingston upon Thames, Surrey</a>, England, UK</br></td>
+
+*** Died ***
+<td style="line-height:1.4em;">31 January 1933<span style="display:none">(<span class="dday deathdate">1933-01-31</span>)</span> (aged 65)<br><a href="/wiki/London" title="London">London</a>, England, UK</br></td>
+
+*** Occupation ***
+<td class="role" style="line-height:1.4em;">Writer</td>
+
+*** Citizenship ***
+<td style="line-height:1.4em;">British</td>
+
+*** Notable awards ***
+<td style="line-height:1.4em;"><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a><br>
+1932<br/></br></td>
+
+*** Signature ***
+<td colspan="2" style="text-align:center;line-height:1.4em;">
+<hr/></td>

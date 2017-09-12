@@ -1,0 +1,31 @@
+Robert Fogel
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1926-07-01</span>)</span>July 1, 1926<br><span class="birthplace"><a href="/wiki/New_York_City" title="New York City">New York City</a>, New York, U.S.</span></br></td>
+
+*** Died ***
+<td>June 11, 2013<span style="display:none">(<span class="dday deathdate">2013-06-11</span>)</span> (aged 86)<br><span class="deathplace"><a href="/wiki/Oak_Lawn,_Illinois" title="Oak Lawn, Illinois">Oak Lawn, Illinois</a>, U.S.</span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Field ***
+<td colspan="2" style="text-align:center"></td>
+
+*** School or
+tradition ***
+<td class="category"><a href="/wiki/Economic_history" title="Economic history">Economic history</a><br><a href="/wiki/Cliometrics" title="Cliometrics">Cliometrics</a></br></td>
+
+*** Alma mater ***
+<td class="category"><a href="/wiki/Chicago_school_of_economics" title="Chicago school of economics">Chicago School</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/Stuyvesant_High_School" title="Stuyvesant High School">Stuyvesant High School</a><br><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a><br><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><br><a href="/wiki/Johns_Hopkins_University" title="Johns Hopkins University">Johns Hopkins University</a></br></br></br></td>
+
+*** Academic
+advisors ***
+<td><a href="/wiki/Simon_Kuznets" title="Simon Kuznets">Simon Kuznets</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Evsey_Domar" title="Evsey Domar">Evsey Domar</a><br><a class="mw-redirect" href="/wiki/Abba_Lerner" title="Abba Lerner">Abba Lerner</a><br><a href="/wiki/Fritz_Machlup" title="Fritz Machlup">Fritz Machlup</a></br></br></td>

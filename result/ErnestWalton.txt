@@ -1,0 +1,25 @@
+Ernest Walton
+
+*** Born ***
+<td>6 October 1903<br><span class="birthplace"><a href="/wiki/Abbeyside" title="Abbeyside">Abbeyside</a>, <a href="/wiki/Dungarvan" title="Dungarvan">Dungarvan</a>, Ireland</span></br></td>
+
+*** Died ***
+<td>25 June 1995<span style="display:none">(<span class="dday deathdate">1995-06-25</span>)</span> (aged 91)<br><span class="deathplace"><a href="/wiki/Belfast" title="Belfast">Belfast</a>, Northern Ireland</span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Ireland" title="Ireland">Irish</a></td>
+
+*** Known for ***
+<td>The first disintegration of an atomic nucleus by artificially accelerated protons (<i>"<a class="mw-redirect" href="/wiki/Splitting_the_atom" title="Splitting the atom">splitting the atom</a>"</i>)</td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Hughes_Medal" title="Hughes Medal">Hughes Medal</a> (1938)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1951)</br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/Trinity_College_Dublin" title="Trinity College Dublin">Trinity College Dublin</a><br><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a><br><a href="/wiki/Methodist_College_Belfast" title="Methodist College Belfast">Methodist College Belfast</a><br><a href="/wiki/Dublin_Institute_for_Advanced_Studies" title="Dublin Institute for Advanced Studies">Dublin Institute for Advanced Studies</a></br></br></br></td>

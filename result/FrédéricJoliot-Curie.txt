@@ -1,0 +1,36 @@
+Frédéric Joliot-Curie
+
+*** Born ***
+<td><span class="nickname">Jean Frédéric Joliot</span><br><span style="display:none">(<span class="bday">1900-03-19</span>)</span>19 March 1900<br><span class="birthplace">Paris, France</span></br></br></td>
+
+*** Died ***
+<td>14 August 1958<span style="display:none">(<span class="dday deathdate">1958-08-14</span>)</span> (aged 58)<br><span class="deathplace">Paris, France</span></br></td>
+
+*** Nationality ***
+<td class="category">France</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Paris" title="University of Paris">University of Paris</a></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Atomic_nuclei" title="Atomic nuclei">Atomic nuclei</a></td>
+
+*** Spouse(s) ***
+<td><a href="/wiki/Ir%C3%A8ne_Joliot-Curie" title="Irène Joliot-Curie">Irène Joliot-Curie</a></td>
+
+*** Children ***
+<td>
+<p><a href="/wiki/H%C3%A9l%C3%A8ne_Langevin-Joliot" title="Hélène Langevin-Joliot">Hélène Langevin-Joliot</a> (b. 1927)<br/></p>
+<a href="/wiki/Pierre_Joliot" title="Pierre Joliot">Pierre Joliot</a> (b. 1932)</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> (1935)</li>
+<li><a href="/wiki/Hughes_Medal" title="Hughes Medal">Hughes Medal</a> (1947)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> (1946)<sup class="reference" id="cite_ref-formemrs_1-0"><a href="#cite_note-formemrs-1">[1]</a></sup></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

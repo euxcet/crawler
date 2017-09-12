@@ -1,0 +1,22 @@
+Shin'ichirō Tomonaga
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1906-03-31</span>)</span>March 31, 1906<br><span class="birthplace"><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, <a href="/wiki/Empire_of_Japan" title="Empire of Japan">Japan</a></span></br></td>
+
+*** Died ***
+<td>July 8, 1979<span style="display:none">(<span class="dday deathdate">1979-07-08</span>)</span> (aged 73)<br><span class="deathplace">Tokyo, <a href="/wiki/Japan" title="Japan">Japan</a></span></br></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Kyoto_University" title="Kyoto University">Kyoto Imperial University</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Quantum_electrodynamics" title="Quantum electrodynamics">Quantum electrodynamics</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Asahi_Prize" title="Asahi Prize">Asahi Prize</a> (1946)<br><a href="/wiki/Lomonosov_Gold_Medal" title="Lomonosov Gold Medal">Lomonosov Gold Medal</a> (1964)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1965)</br></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical physics</a></td>

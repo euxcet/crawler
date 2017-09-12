@@ -1,0 +1,29 @@
+Michael Spence
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1943-11-07</span>)</span> November 7, 1943 <span class="noprint ForceAgeToShow">(age 73)</span><br><span class="birthplace"><a href="/wiki/Montclair,_New_Jersey" title="Montclair, New Jersey">Montclair</a>, <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, <a href="/wiki/United_States" title="United States">USA</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a><br><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a><br><a href="/wiki/SDA_Bocconi_School_of_Management" title="SDA Bocconi School of Management">SDA Bocconi School of Management</a><br><a href="/wiki/New_York_University" title="New York University">New York University</a></br></br></br></td>
+
+*** Alma mater ***
+<td class="category"><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a>, <a class="mw-redirect" href="/wiki/Labor_economics" title="Labor economics">labor economics</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, <small>(Ph.D.)</small><br><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a>, <small>(B.A.)</small><br><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>, <small>(B.A.)</small></br></br></td>
+
+*** Influences ***
+<td><a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">Kenneth Arrow</a><sup class="reference" id="cite_ref-hesis_advisers_1-0"><a href="#cite_note-hesis_advisers-1">[1]</a></sup><br><a href="/wiki/Thomas_Schelling" title="Thomas Schelling">Thomas Schelling</a><sup class="reference" id="cite_ref-hesis_advisers_1-1"><a href="#cite_note-hesis_advisers-1">[1]</a></sup></br></td>
+
+*** Contributions ***
+<td><a href="/wiki/Richard_Zeckhauser" title="Richard Zeckhauser">Richard Zeckhauser</a></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Signaling_(economics)" title="Signaling (economics)">Signaling theory</a></td>

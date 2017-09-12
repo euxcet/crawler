@@ -1,0 +1,69 @@
+Bertrand Russell
+
+*** Born ***
+<td><span class="nickname">Bertrand Arthur William Russell</span><br><span style="display:none">(<span class="bday">1872-05-18</span>)</span>18 May 1872<br><span class="birthplace"><a href="/wiki/Trellech" title="Trellech">Trellech</a>, <a href="/wiki/Monmouthshire_(historic)" title="Monmouthshire (historic)">Monmouthshire</a>,<sup class="reference" id="cite_ref-monmouthshire_1-0"><a href="#cite_note-monmouthshire-1">[1]</a></sup>, Wales United Kingdom</span></br></br></td>
+
+*** Died ***
+<td>2 February 1970<span style="display:none">(<span class="dday deathdate">1970-02-02</span>)</span> (aged 97)<br><span class="deathplace"><a href="/wiki/Penrhyndeudraeth" title="Penrhyndeudraeth">Penrhyndeudraeth</a>, <a href="/wiki/Caernarfonshire" title="Caernarfonshire">Caernarfonshire</a>, Wales, United Kingdom</span></br></td>
+
+*** Residence ***
+<td>United Kingdom</td>
+
+*** Nationality ***
+<td class="category">Welsh</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Trinity_College,_Cambridge" title="Trinity College, Cambridge">Trinity College, Cambridge</a><br>
+(BA, 1893)</br></td>
+
+*** Spouse(s) ***
+<td><a href="/wiki/Alys_Pearsall_Smith" title="Alys Pearsall Smith">Alys Pearsall Smith</a> (m. 1894–1921)<br><a href="/wiki/Dora_Russell" title="Dora Russell">Dora Black</a> (m. 1921–1935)<br><a href="/wiki/Patricia_Russell,_Countess_Russell" title="Patricia Russell, Countess Russell">Marjorie "Patricia" Spence</a> (m. 1936–1952<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>)<br><a href="/wiki/Edith_Finch_Russell" title="Edith Finch Russell">Edith Finch</a> (m. 1952–1970; his death)</br></br></br></td>
+
+*** Awards ***
+<td><a href="/wiki/De_Morgan_Medal" title="De Morgan Medal">De Morgan Medal</a> <small>(1932)</small><br><a href="/wiki/Sylvester_Medal" title="Sylvester Medal">Sylvester Medal</a> <small>(1934)</small><br><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a> <small>(1950)</small><br><a href="/wiki/Kalinga_Prize" title="Kalinga Prize">Kalinga Prize</a> <small>(1957)</small><br><a href="/wiki/Jerusalem_Prize" title="Jerusalem Prize">Jerusalem Prize</a> <small>(1963)</small></br></br></br></br></td>
+
+*** Era ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Region ***
+<td class="category"><a href="/wiki/20th-century_philosophy" title="20th-century philosophy">20th-century philosophy</a></td>
+
+*** School ***
+<td class="category">Western philosophy</td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Analytic_philosophy" title="Analytic philosophy">Analytic philosophy</a><br><a href="/wiki/Linguistic_turn" title="Linguistic turn">Linguistic turn</a><br><a href="/wiki/Logicism" title="Logicism">Logicism</a><br><a href="/wiki/Utilitarianism" title="Utilitarianism">Utilitarianism</a></br></br></br></td>
+
+*** 
+Main interests
+ ***
+<td class="org"><a href="/wiki/Trinity_College,_Cambridge" title="Trinity College, Cambridge">Trinity College, Cambridge</a>, <a href="/wiki/London_School_of_Economics" title="London School of Economics">London School of Economics</a></td>
+
+*** 
+Notable ideas
+ ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Ethics" title="Ethics">Ethics</a></li>
+<li><a href="/wiki/Logic" title="Logic">Logic</a></li>
+<li><a href="/wiki/Mathematics" title="Mathematics">Mathematics</a></li>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a class="mw-redirect" href="/wiki/History_of_philosophy" title="History of philosophy">History of philosophy</a></li>
+<li><a href="/wiki/Philosophy_of_language" title="Philosophy of language">Philosophy of language</a></li>
+<li><a href="/wiki/Philosophy_of_logic" title="Philosophy of logic">Philosophy of logic</a></li>
+<li><a href="/wiki/Philosophy_of_mathematics" title="Philosophy of mathematics">Philosophy of mathematics</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></li>
+<li><a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">Philosophy of perception</a></li>
+<li><a href="/wiki/Philosophy_of_religion" title="Philosophy of religion">Philosophy of religion</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+</ul></div>
+</td>
+
+*** Signature ***
+<td>
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;"><span class="nowrap"> </span></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><a href="/wiki/Analytic_philosophy" title="Analytic philosophy">Analytic philosophy</a><br><a href="/wiki/Automated_reasoning" title="Automated reasoning">Automated reasoning</a><br><a href="/wiki/Automated_theorem_proving" title="Automated theorem proving">Automated theorem proving</a><br><a href="/wiki/Axiom_of_reducibility" title="Axiom of reducibility">Axiom of reducibility</a><br><a href="/wiki/Barber_paradox" title="Barber paradox">Barber paradox</a><br><a href="/wiki/Berry_paradox" title="Berry paradox">Berry paradox</a><br><a href="/wiki/Chicken_(game)" title="Chicken (game)">Chicken</a><br><a class="mw-redirect" href="/wiki/Connective_(logic)" title="Connective (logic)">Connective</a><br><a href="/wiki/Definite_description" title="Definite description">Definite description</a><br><a href="/wiki/Descriptivist_theory_of_names" title="Descriptivist theory of names">Descriptivist theory of names</a><br><a href="/wiki/Mediated_reference_theory" title="Mediated reference theory">Mediated reference theory</a><br><a href="/wiki/Double_negation" title="Double negation">Double negation</a><br><a class="mw-redirect" href="/wiki/Epistemic_structural_realism" title="Epistemic structural realism">Epistemic structural realism</a><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><br><a href="/wiki/Existential_fallacy" title="Existential fallacy">Existential fallacy</a><br><a class="mw-redirect" href="/wiki/Failure_of_reference" title="Failure of reference">Failure of reference</a><br><a href="/wiki/Knowledge_by_acquaintance" title="Knowledge by acquaintance">Knowledge by acquaintance</a> and knowledge by description<br><a href="/wiki/Logical_atomism" title="Logical atomism">Logical atomism</a><br><a href="/wiki/Logical_form" title="Logical form">Logical form</a><br><a href="/wiki/Mathematical_beauty" title="Mathematical beauty">Mathematical beauty</a><br><a href="/wiki/Mathematical_logic" title="Mathematical logic">Mathematical logic</a><br><a href="/wiki/Meaning_(philosophy_of_language)" title="Meaning (philosophy of language)">Meaning</a><br><a href="/wiki/Metamathematics" title="Metamathematics">Metamathematics</a><br><a href="/wiki/Philosophical_logic" title="Philosophical logic">Philosophical logic</a><br><a href="/wiki/Propositional_calculus" title="Propositional calculus">Propositional calculus</a><br><a href="/wiki/Naive_set_theory" title="Naive set theory">Naive set theory</a><br><a href="/wiki/Neutral_monism" title="Neutral monism">Neutral monism</a><br><a href="/wiki/Paradoxes_of_set_theory" title="Paradoxes of set theory">Paradoxes of set theory</a><br><a href="/wiki/Peano%E2%80%93Russell_notation" title="Peano–Russell notation">Peano–Russell notation</a><br><a href="/wiki/Propositional_formula" title="Propositional formula">Propositional formula</a><br><a href="/wiki/Self-refuting_idea" title="Self-refuting idea">Self-refuting idea</a><br><a class="mw-redirect" href="/wiki/Quantification_(logic)" title="Quantification (logic)">Quantification</a><br><a href="/wiki/Round_square_copula" title="Round square copula">Round square copula</a><br><a class="mw-redirect" href="/wiki/Relation_(logic)" title="Relation (logic)">Relation</a><br><a class="mw-redirect" href="/wiki/Russell_conjugation" title="Russell conjugation">Russell conjugation</a><br><a href="/wiki/Russell%27s_paradox" title="Russell's paradox">Russell's paradox</a><br><a href="/wiki/Russell%27s_teapot" title="Russell's teapot">Russell's teapot</a><br><a href="/wiki/Set-theoretic_definition_of_natural_numbers" title="Set-theoretic definition of natural numbers">Set-theoretic definition of natural numbers</a><br><a href="/wiki/Singleton_(mathematics)" title="Singleton (mathematics)">Singleton</a><br><a href="/wiki/Theory_of_descriptions" title="Theory of descriptions">Theory of descriptions</a><br><a href="/wiki/Type_theory" title="Type theory">Type theory</a>/<a class="mw-redirect" href="/wiki/Ramified_type_theory" title="Ramified type theory">ramified type theory</a><br><a href="/wiki/Tensor_product_of_graphs" title="Tensor product of graphs">Tensor product of graphs</a><br><a href="/wiki/Unity_of_the_proposition" title="Unity of the proposition">Unity of the proposition</a></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></li>
+</ul></div>
+</td>

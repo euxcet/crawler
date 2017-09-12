@@ -1,0 +1,22 @@
+Louis J. Ignarro
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1941-05-31</span>)</span> May 31, 1941 <span class="noprint ForceAgeToShow">(age 76)</span><br><span class="birthplace"><a class="mw-redirect" href="/wiki/Brooklyn,_NY" title="Brooklyn, NY">Brooklyn, NY</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"> </img></span><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><br><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a></br></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Nitric_Oxide" title="Nitric Oxide">Nitric Oxide</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1998)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Pharmacology" title="Pharmacology">Pharmacology</a></td>

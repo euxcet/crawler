@@ -1,0 +1,31 @@
+Wolfgang Paul
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1913-08-10</span>)</span>10 August 1913<br><span class="birthplace"><a class="mw-redirect" href="/wiki/Lorenzkirch" title="Lorenzkirch">Lorenzkirch</a>, <a href="/wiki/Kingdom_of_Saxony" title="Kingdom of Saxony">Saxony</a>, <a href="/wiki/German_Empire" title="German Empire">German Empire</a></span></br></td>
+
+*** Died ***
+<td>7 December 1993<span style="display:none">(<span class="dday deathdate">1993-12-07</span>)</span> (aged 80)<br><span class="deathplace"><a href="/wiki/Bonn" title="Bonn">Bonn</a>, <a href="/wiki/North_Rhine-Westphalia" title="North Rhine-Westphalia">North Rhine-Westphalia</a>, <a href="/wiki/Germany" title="Germany">Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Germany" title="Germany">Germany</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a><br><a href="/wiki/Technical_University_of_Berlin" title="Technical University of Berlin">Technical University of Berlin</a><br><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a></br></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Ion_trap" title="Ion trap">Ion traps</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a class="mw-redirect" href="/wiki/Nobel_Prize_in_physics" title="Nobel Prize in physics">Nobel Prize in physics</a> <small>(1989)</small><br><a href="/wiki/Dirac_Medal" title="Dirac Medal">Dirac Medal</a> <small>(1992)</small></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/University_of_Bonn" title="University of Bonn">University of Bonn</a><br><a href="/wiki/University_of_Kiel" title="University of Kiel">University of Kiel</a></br></td>
+
+*** Notes ***
+<td><a href="/wiki/Hans_Kopfermann" title="Hans Kopfermann">Hans Kopfermann</a></td>

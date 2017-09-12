@@ -1,0 +1,58 @@
+Tomas Lindahl
+
+*** Born ***
+<td><span class="nickname">Tomas Robert Lindahl</span><br><span style="display:none">(<span class="bday">1938-01-28</span>)</span> 28 January 1938 <span class="noprint ForceAgeToShow">(age 79)</span><sup class="reference" id="cite_ref-whoswho_1-0"><a href="#cite_note-whoswho-1">[1]</a></sup><br><span class="birthplace"><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, Sweden</span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Sweden" title="Sweden">Swedish</a>, naturalised <a href="/wiki/United_Kingdom" title="United Kingdom">British</a><br>
+(<a class="mw-redirect" href="/wiki/Dual_nationality" title="Dual nationality">dual nationality</a>)</br></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/Karolinska_Institutet" title="Karolinska Institutet">Karolinska Institutet</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td>Clarification of cellular resistance to carcinogens</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/EMBO_Membership" title="EMBO Membership">EMBO Membership</a> (1974)<sup class="reference" id="cite_ref-membo_2-0"><a href="#cite_note-membo-2">[2]</a></sup></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (1988)<sup class="reference" id="cite_ref-royal_3-0"><a href="#cite_note-royal-3">[3]</a></sup><sup class="reference" id="cite_ref-frs_4-0"><a href="#cite_note-frs-4">[4]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/FMedSci" title="FMedSci">FMedSci</a> (1998)<sup class="reference" id="cite_ref-fmedsci_5-0"><a href="#cite_note-fmedsci-5">[5]</a></sup></li>
+<li><a href="/wiki/Royal_Medal" title="Royal Medal">Royal Medal</a> (2007)</li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> (2010)</li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (2015)</li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://crick.ac.uk/research/a-z-researchers/emeritus-scientists/tomas-lindahl/" rel="nofollow">crick<wbr></wbr>.ac<wbr></wbr>.uk<wbr></wbr>/research<wbr></wbr>/a-z-researchers<wbr></wbr>/emeritus-scientists<wbr></wbr>/tomas-lindahl<wbr></wbr>/</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category">
+<div class="plainlist">
+<ul><li><a href="/wiki/Cancer_research" title="Cancer research">Cancer research</a></li>
+<li><a href="/wiki/DNA_repair" title="DNA repair">DNA repair</a><sup class="reference" id="cite_ref-Lindahl2013_6-0"><a href="#cite_note-Lindahl2013-6">[6]</a></sup></li>
+</ul></div>
+</td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Francis_Crick_Institute" title="Francis Crick Institute">Francis Crick Institute</a></li>
+<li><a href="/wiki/London_Research_Institute" title="London Research Institute">London Research Institute</a></li>
+<li><a href="/wiki/University_of_Gothenburg" title="University of Gothenburg">University of Gothenburg</a></li>
+<li><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></li>
+<li><a href="/wiki/Rockefeller_University" title="Rockefeller University">Rockefeller University</a></li>
+</ul></div>
+</td>
+
+*** Influences ***
+<td><a class="external text" href="http://libris.kb.se/bib/1308970" rel="nofollow"><i>On the structure and stability of nucleic acids in solution</i></a> <span style="font-size:90%;">(1967)</span></td>

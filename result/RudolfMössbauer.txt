@@ -1,0 +1,25 @@
+Rudolf Mössbauer
+
+*** Born ***
+<td><span class="nickname">Rudolf Ludwig Mössbauer</span><br><span style="display:none">(<span class="bday">1929-01-31</span>)</span>31 January 1929<br><span class="birthplace"><a href="/wiki/Munich" title="Munich">Munich</a>, <a href="/wiki/Weimar_Republic" title="Weimar Republic">Weimar Republic</a></span></br></br></td>
+
+*** Died ***
+<td>14 September 2011<span style="display:none">(<span class="dday deathdate">2011-09-14</span>)</span> (aged 82)<br><span class="deathplace"><a href="/wiki/Gr%C3%BCnwald,_Bavaria" title="Grünwald, Bavaria">Grünwald</a>, <a href="/wiki/Germany" title="Germany">Germany</a></span></br></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/Technische_Universit%C3%A4t_M%C3%BCnchen" title="Technische Universität München">Technical University of Munich</a></td>
+
+*** Known for ***
+<td><a href="/wiki/M%C3%B6ssbauer_effect" title="Mössbauer effect">Mössbauer effect</a><br><a href="/wiki/M%C3%B6ssbauer_spectroscopy" title="Mössbauer spectroscopy">Mössbauer spectroscopy</a></br></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(1961)</small><br><a href="/wiki/Elliott_Cresson_Medal" title="Elliott Cresson Medal">Elliott Cresson Medal</a> <small>(1961)</small><br><a href="/wiki/Lomonosov_Gold_Medal" title="Lomonosov Gold Medal">Lomonosov Gold Medal</a> <small>(1984)</small></br></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear</a> and <a href="/wiki/Atomic_physics" title="Atomic physics">atomic physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Technical_University_of_Munich" title="Technical University of Munich">Technical University of Munich</a><br><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">Caltech</a></br></td>

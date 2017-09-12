@@ -1,0 +1,22 @@
+Avram Hershko
+
+*** Born ***
+<td><span class="nickname">Herskó Ferenc</span><br><span style="display:none">(<span class="bday">1937-12-31</span>)</span> 31 December 1937 <span class="noprint ForceAgeToShow">(age 79)</span><br><span class="birthplace"><a href="/wiki/Karcag" title="Karcag">Karcag</a>, Hungary</span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Israel" title="Israel">Israel</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Ubiquitin" title="Ubiquitin">ubiquitin</a>-mediated <a class="mw-redirect" href="/wiki/Protein_degradation" title="Protein degradation">protein degradation</a></td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Avram Hershko">Judith Leibowitz (<abbr title="married">m.</abbr> 1963)</span></td>
+
+*** Children ***
+<td>3</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (2004)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

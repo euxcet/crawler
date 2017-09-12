@@ -1,0 +1,23 @@
+George Minot
+
+*** Born ***
+<td><span style="display:none">( <span class="bday">1885-12-02</span>)</span>December 2, 1885<br><span class="birthplace"><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></span></br></td>
+
+*** Died ***
+<td>February 25, 1950<span style="display:none">(<span class="dday deathdate">1950-02-25</span>)</span> (aged 64)<br><span class="deathplace"><a href="/wiki/Brookline,_Massachusetts" title="Brookline, Massachusetts">Brookline, Massachusetts</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Anemia" title="Anemia">Anemia</a><br>
+Treatment of <a class="mw-redirect" href="/wiki/Pernicious_anemia" title="Pernicious anemia">pernicious anemia</a></br></td>
+
+*** Awards ***
+<td>1934 <a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a></td>
+
+*** Institutions ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

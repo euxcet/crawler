@@ -1,0 +1,34 @@
+André Michel Lwoff
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1902-05-08</span>)</span>8 May 1902<br><span class="birthplace"><a href="/wiki/Ainay-le-Ch%C3%A2teau" title="Ainay-le-Château">Ainay-le-Château</a></span></br></td>
+
+*** Died ***
+<td>30 September 1994<span style="display:none">(<span class="dday deathdate">1994-09-30</span>)</span> (aged 92)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Paris,_France" title="Paris, France">Paris, France</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/France" title="France">French</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Pasteur_Institute" title="Pasteur Institute">Pasteur Institute</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Provirus" title="Provirus">Provirus</a></td>
+
+*** Spouse(s) ***
+<td>Marguerite Lwoff</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1958)</small><sup class="reference" id="cite_ref-rsobit_1-0"><a href="#cite_note-rsobit-1">[1]</a></sup></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Medicine</a> <small>(1965)</small></li>
+<li><a href="/wiki/Leeuwenhoek_Medal" title="Leeuwenhoek Medal">Leeuwenhoek Medal</a> <small>(1960)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Microbiology" title="Microbiology">Microbiology</a></td>

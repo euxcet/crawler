@@ -1,0 +1,66 @@
+Niko Tinbergen
+
+*** Born ***
+<td><span class="nickname">Nikolaas Tinbergen</span><br><span style="display:none">(<span class="bday">1907-04-15</span>)</span>15 April 1907<br><span class="birthplace"><a href="/wiki/The_Hague" title="The Hague">The Hague</a>, Netherlands</span></br></br></td>
+
+*** Died ***
+<td>21 December 1988<span style="display:none">(<span class="dday deathdate">1988-12-21</span>)</span> (aged 81)<br><span class="deathplace"><a href="/wiki/Oxford" title="Oxford">Oxford</a>, England</span></br></td>
+
+*** Residence ***
+<td>United Kingdom</td>
+
+*** Nationality ***
+<td class="category">Dutch</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Leiden_University" title="Leiden University">Leiden University</a></td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Hawk/goose_effect" title="Hawk/goose effect">Hawk/goose effect</a></li>
+<li><a href="/wiki/Tinbergen%27s_four_questions" title="Tinbergen's four questions">Tinbergen's four questions</a></li>
+</ul></div>
+</td>
+
+*** Spouse(s) ***
+<td>Elisabeth Rutten (1912–1990)</td>
+
+*** Children ***
+<td>5</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1973)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (1962)<sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category">
+<div class="plainlist">
+<ul><li><a href="/wiki/Zoology" title="Zoology">Zoology</a></li>
+<li><a href="/wiki/Ethology" title="Ethology">Ethology</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Hilbrand_Boschma" title="Hilbrand Boschma">Hilbrand Boschma</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
+
+*** Influenced ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Richard_Dawkins" title="Richard Dawkins">Richard Dawkins</a><sup class="reference" id="cite_ref-dawkinsphd_3-0"><a href="#cite_note-dawkinsphd-3">[3]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/John_Krebs" title="John Krebs">John Krebs</a></li>
+<li><a href="/wiki/Aubrey_Manning" title="Aubrey Manning">Aubrey Manning</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li><a href="/wiki/Desmond_Morris" title="Desmond Morris">Desmond Morris</a><sup class="reference" id="cite_ref-Beale_5-0"><a href="#cite_note-Beale-5">[5]</a></sup></li>
+<li><a href="/wiki/Tony_Sinclair_(biologist)" title="Tony Sinclair (biologist)">Anthony Sinclair</a></li>
+</ul></div>
+</td>

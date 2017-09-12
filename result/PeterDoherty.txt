@@ -1,0 +1,35 @@
+Peter Doherty
+
+*** Born ***
+<td><span class="mw-formatted-date" title="1940-10-15">15 October 1940</span><span style="display:none"> (<span class="dtstart bday">1940-10-15</span>)</span> (age 76)<br><span class="birthplace"><a href="/wiki/Brisbane" title="Brisbane">Brisbane</a>, <a href="/wiki/Queensland" title="Queensland">Queensland</a></span></br></td>
+
+*** Nationality ***
+<td class="category">Australian</td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/University_of_Queensland" title="University of Queensland">University of Queensland</a> (Veterinary Medicine)</li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td><a href="/wiki/Major_histocompatibility_complex" title="Major histocompatibility complex">major histocompatibility complex</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (1987)<sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1996)</li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://www.nobelprize.org/nobel_prizes/medicine/laureates/1996/doherty-bio.html" rel="nofollow">www<wbr></wbr>.nobelprize<wbr></wbr>.org<wbr></wbr>/nobel<wbr></wbr>_prizes<wbr></wbr>/medicine<wbr></wbr>/laureates<wbr></wbr>/1996<wbr></wbr>/doherty-bio<wbr></wbr>.html</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category">Medicine<br><a href="/wiki/Immunology" title="Immunology">Immunology</a></br></td>

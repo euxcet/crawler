@@ -1,0 +1,25 @@
+James Cronin
+
+*** Born ***
+<td><span class="nickname">James Watson Cronin</span><br><span style="display:none">(<span class="bday">1931-09-29</span>)</span>September 29, 1931<br><span class="birthplace"><a class="mw-redirect" href="/wiki/Chicago,_Illinois" title="Chicago, Illinois">Chicago, Illinois</a>, U.S.</span></br></br></td>
+
+*** Died ***
+<td>August 25, 2016<span style="display:none">(<span class="dday deathdate">2016-08-25</span>)</span> (aged 84)<br><span class="deathplace"><a href="/wiki/Saint_Paul,_Minnesota" title="Saint Paul, Minnesota">Saint Paul, Minnesota</a>, U.S.</span></br></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Alma mater ***
+<td><span class="nowrap"><a href="/wiki/Southern_Methodist_University" title="Southern Methodist University">Southern Methodist University</a></span><br><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear physics</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Ernest_Orlando_Lawrence_Award" title="Ernest Orlando Lawrence Award">E. O. Lawrence Award</a> (1976)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1980)<br><a href="/wiki/John_Price_Wetherill_Medal" title="John Price Wetherill Medal">John Price Wetherill Medal</a><br><a href="/wiki/National_Medal_of_Science" title="National Medal of Science">National Medal of Science</a></br></br></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>

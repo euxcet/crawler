@@ -1,0 +1,40 @@
+Irène Joliot-Curie
+
+*** Born ***
+<td><span class="nickname">Irène Curie</span><br><span style="display:none">(<span class="bday">1897-09-12</span>)</span>12 September 1897<br><span class="birthplace">Paris, France</span></br></br></td>
+
+*** Died ***
+<td>17 March 1956<span style="display:none">(<span class="dday deathdate">1956-03-17</span>)</span> (aged 58)<br><span class="deathplace">Paris, France</span></br></td>
+
+*** Cause of death ***
+<td><a class="mw-redirect" href="/wiki/Leukaemia" title="Leukaemia">leukaemia</a></td>
+
+*** Residence ***
+<td>Paris, France</td>
+
+*** Nationality ***
+<td class="category">French</td>
+
+*** Citizenship ***
+<td class="category">French</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Paris" title="University of Paris">University of Paris</a></td>
+
+*** Spouse(s) ***
+<td><a href="/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie" title="Frédéric Joliot-Curie">Frédéric Joliot-Curie</a> <span class="nowrap">(1926–1958)</span></td>
+
+*** Children ***
+<td><a href="/wiki/H%C3%A9l%C3%A8ne_Langevin-Joliot" title="Hélène Langevin-Joliot">Hélène Langevin-Joliot</a> (b. 1927)<br><a href="/wiki/Pierre_Joliot" title="Pierre Joliot">Pierre Joliot</a> (b. 1932)</br></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> (1935)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Doctoral advisor ***
+<td class="category"><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Paul_Langevin" title="Paul Langevin">Paul Langevin</a></td>

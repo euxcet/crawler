@@ -1,0 +1,53 @@
+Walter Gilbert
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1932-03-21</span>)</span> March 21, 1932 <span class="noprint ForceAgeToShow">(age 85)</span><br><span class="birthplace"><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, United States</span></br></td>
+
+*** Nationality ***
+<td class="category">U.S.</td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (BS, MS)</li>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Walter Gilbert">Celia Stone (<abbr title="married">m.</abbr> 1953)</span><sup class="reference" id="cite_ref-gilbertbio_1-0"><a href="#cite_note-gilbertbio-1">[1]</a></sup></td>
+
+*** Children ***
+<td>2<sup class="reference" id="cite_ref-gilbertbio_1-1"><a href="#cite_note-gilbertbio-1">[1]</a></sup></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/NAS_Award_in_Molecular_Biology" title="NAS Award in Molecular Biology">NAS Award in Molecular Biology</a> <small>(1968)</small></li>
+<li><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> <small>(1979)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> <small>(1980)</small></li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1980/gilbert-bio.html" rel="nofollow">www<wbr></wbr>.nobelprize<wbr></wbr>.org<wbr></wbr>/nobel<wbr></wbr>_prizes<wbr></wbr>/chemistry<wbr></wbr>/laureates<wbr></wbr>/1980<wbr></wbr>/gilbert-bio<wbr></wbr>.html</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category">
+<div class="plainlist">
+<ul><li><a href="/wiki/Biochemistry" title="Biochemistry">Biochemistry</a></li>
+<li><a href="/wiki/Physics" title="Physics">Physics</a></li>
+</ul></div>
+</td>
+
+*** Thesis ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.599407" rel="nofollow"><i>On generalised dispersion relations and meson-nucleon scattering</i></a> <span style="font-size:90%;">(1958)</span></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Abdus_Salam" title="Abdus Salam">Abdus Salam</a></td>

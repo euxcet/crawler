@@ -1,0 +1,36 @@
+Max von Laue
+
+*** Born ***
+<td><span class="nickname">Max Theodor Felix Laue</span><br><span style="display:none">(<span class="bday">1879-10-09</span>)</span>9 October 1879<br><span class="birthplace"><a href="/wiki/Koblenz" title="Koblenz">Pfaffendorf</a>, <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Kingdom of Prussia</a>, <a href="/wiki/German_Empire" title="German Empire">German Empire</a></span></br></br></td>
+
+*** Died ***
+<td>24 April 1960<span style="display:none">(<span class="dday deathdate">1960-04-24</span>)</span> (aged 80)<br><span class="deathplace"><a href="/wiki/West_Berlin" title="West Berlin">West Berlin</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Germany" title="Germany">German</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Strasbourg" title="University of Strasbourg">University of Strasbourg</a><br><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a><br><a class="mw-redirect" href="/wiki/University_of_Munich" title="University of Munich">University of Munich</a><br><a class="mw-redirect" href="/wiki/University_of_Berlin" title="University of Berlin">University of Berlin</a></br></br></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Diffraction" title="Diffraction">Diffraction</a> of <a class="mw-redirect" href="/wiki/X-rays" title="X-rays">X-rays</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physics" title="Nobel Prize for Physics">Nobel Prize for Physics</a> <small>(1914)</small><br><a href="/wiki/Matteucci_Medal" title="Matteucci Medal">Matteucci Medal</a> <small>(1914)</small><br><a href="/wiki/Max_Planck_Medal" title="Max Planck Medal">Max Planck Medal</a> <small>(1932)</small></br></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/University_of_Z%C3%BCrich" title="University of Zürich">University of Zürich</a><br><a href="/wiki/Goethe_University_Frankfurt" title="Goethe University Frankfurt">University of Frankfurt</a><br><a class="mw-redirect" href="/wiki/University_of_Berlin" title="University of Berlin">University of Berlin</a><br><a class="mw-redirect" href="/wiki/Max_Planck_Institute" title="Max Planck Institute">Max Planck Institute</a></br></br></br></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Max_Planck" title="Max Planck">Max Planck</a><br><a href="/wiki/Arnold_Sommerfeld" title="Arnold Sommerfeld">Arnold Sommerfeld</a></br></td>
+
+*** Other notable students ***
+<td><a class="mw-redirect" href="/wiki/Le%C3%B3_Szil%C3%A1rd" title="Leó Szilárd">Leó Szilárd</a><br><a href="/wiki/Friedrich_Beck" title="Friedrich Beck">Friedrich Beck</a><br>
+Max Kohler<br>
+Erna Weber</br></br></br></td>

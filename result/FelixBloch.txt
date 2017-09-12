@@ -1,0 +1,34 @@
+Felix Bloch
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1905-10-23</span>)</span>23 October 1905<br><span class="birthplace"><a href="/wiki/Z%C3%BCrich" title="Zürich">Zürich</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Died ***
+<td>10 September 1983<span style="display:none">(<span class="dday deathdate">1983-09-10</span>)</span> (aged 77)<br><span class="deathplace"><a href="/wiki/Z%C3%BCrich" title="Zürich">Zürich</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Nationality ***
+<td class="category">Swiss</td>
+
+*** Citizenship ***
+<td class="category">Swiss, American</td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/ETH_Z%C3%BCrich" title="ETH Zürich">ETH Zürich</a> and <a class="mw-redirect" href="/wiki/University_of_Leipzig" title="University of Leipzig">University of Leipzig</a></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/NMR" title="NMR">NMR</a><br><a class="mw-redirect" href="/wiki/Bloch_wall" title="Bloch wall">Bloch wall</a><br><a class="mw-redirect" href="/wiki/Bloch%27s_Theorem" title="Bloch's Theorem">Bloch's Theorem</a><br><a class="mw-redirect" href="/wiki/Bloch_Function" title="Bloch Function">Bloch Function</a> (Wave)<br><a href="/wiki/Bloch_sphere" title="Bloch sphere">Bloch sphere</a></br></br></br></br></td>
+
+*** Awards ***
+<td><span class="nowrap"><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physics" title="Nobel Prize for Physics">Nobel Prize for Physics</a> (1952)</span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a><br><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></br></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Werner_Heisenberg" title="Werner Heisenberg">Werner Heisenberg</a></td>

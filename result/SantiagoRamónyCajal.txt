@@ -1,0 +1,13 @@
+Santiago Ramón y Cajal
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1852-05-01</span>)</span>1 May 1852<br><span class="birthplace"><a href="/wiki/Petilla_de_Arag%C3%B3n" title="Petilla de Aragón">Petilla de Aragón</a>, <a href="/wiki/Navarre" title="Navarre">Navarre</a>, Spain</span></br></td>
+
+*** Died ***
+<td>17 October 1934<span style="display:none">(<span class="dday deathdate">1934-10-17</span>)</span> (aged 82)<br><span class="deathplace"><a href="/wiki/Madrid" title="Madrid">Madrid</a>, Spain</span></br></td>
+
+*** Known for ***
+<td>The father of modern Neuroscience</td>
+
+*** Signature ***
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Santiago_Ram%C3%B3n_y_Cajal_signature.png"><img alt="Santiago Ramón y Cajal signature.png" data-file-height="384" data-file-width="1092" height="53" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santiago_Ram%C3%B3n_y_Cajal_signature.png/150px-Santiago_Ram%C3%B3n_y_Cajal_signature.png" width="150"/></a></td>

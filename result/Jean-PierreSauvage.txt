@@ -1,0 +1,21 @@
+Jean-Pierre Sauvage
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1944-10-21</span>)</span> 21 October 1944 <span class="noprint ForceAgeToShow">(age 72)</span><br><span class="birthplace">Paris, France</span></br></td>
+
+*** Nationality ***
+<td class="category">French</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/French_Academy_of_Sciences" title="French Academy of Sciences">French Academy of Sciences</a> <small>(1990)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> <small>(2016)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a class="mw-redirect" href="/wiki/Coordination_chemistry" title="Coordination chemistry">coordination chemistry</a>, <a href="/wiki/Supramolecular_chemistry" title="Supramolecular chemistry">supramolecular chemistry</a></td>

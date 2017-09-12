@@ -1,0 +1,28 @@
+Alfred Werner
+
+*** Born ***
+<td>12 December 1866<br><span class="birthplace"><a href="/wiki/Mulhouse" title="Mulhouse">Mulhouse</a>, <a href="/wiki/Haut-Rhin" title="Haut-Rhin">Haut-Rhin</a>, <a href="/wiki/Alsace" title="Alsace">Alsace</a>, <a href="/wiki/France" title="France">France</a></span></br></td>
+
+*** Died ***
+<td>15 November 1919<span style="display:none">(<span class="dday deathdate">1919-11-15</span>)</span> (aged 52)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Zurich" title="Zurich">Zurich</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Switzerland" title="Switzerland">Swiss</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a><br><a href="/wiki/ETH_Zurich" title="ETH Zurich">ETH Zurich</a></br></td>
+
+*** Known for ***
+<td>configuration of <a href="/wiki/Transition_metal" title="Transition metal">transition metal</a> complexes</td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> (1913)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">Inorganic chemistry</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a></td>

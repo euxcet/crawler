@@ -1,0 +1,22 @@
+Leo James Rainwater
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1917-12-09</span>)</span>December 9, 1917<br><span class="birthplace"><a href="/wiki/Council,_Idaho" title="Council, Idaho">Council</a>, <a href="/wiki/Idaho" title="Idaho">Idaho</a></span></br></td>
+
+*** Died ***
+<td>May 31, 1986<span style="display:none">(<span class="dday deathdate">1986-05-31</span>)</span> (aged 68)<br><span class="deathplace"><a href="/wiki/New_York_City" title="New York City">New York</a></span></br></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><br><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">Caltech</a></br></td>
+
+*** Awards ***
+<td><a href="/wiki/Ernest_Orlando_Lawrence_Award" title="Ernest Orlando Lawrence Award">Ernest Orlando Lawrence Award</a> (1963)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1975)</br></td>
+
+*** Institutions ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Thesis ***
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><br><a href="/wiki/Manhattan_Project" title="Manhattan Project">Manhattan Project</a></br></td>
+
+*** Doctoral advisor ***
+<td><i>Neutron beam spectrometer studies of boron, cadmium, and the energy distribution from paraffin</i> <span style="font-size:90%;">(1946)</span></td>

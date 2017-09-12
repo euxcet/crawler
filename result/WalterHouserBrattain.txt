@@ -1,0 +1,28 @@
+Walter Houser Brattain
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1902-02-10</span>)</span>February 10, 1902<br><span class="birthplace"><a href="/wiki/Xiamen" title="Xiamen">Xiamen</a>, <a href="/wiki/Fujian" title="Fujian">Fujian</a>, <a class="mw-redirect" href="/wiki/Qing_Dynasty" title="Qing Dynasty">Qing Dynasty</a></span></br></td>
+
+*** Died ***
+<td>October 13, 1987<span style="display:none">(<span class="dday deathdate">1987-10-13</span>)</span> (aged 85)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Seattle,_Washington" title="Seattle, Washington">Seattle, Washington</a>, US</span></br></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Whitman_College" title="Whitman College">Whitman College</a><br><a href="/wiki/University_of_Oregon" title="University of Oregon">University of Oregon</a><br><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a></br></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Transistor" title="Transistor">Transistor</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Stuart_Ballantine_Medal" title="Stuart Ballantine Medal">Stuart Ballantine Medal</a> (1952)<br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1956)</br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a>, <a href="/wiki/Electronic_engineering" title="Electronic engineering">Electronic engineering</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Whitman_College" title="Whitman College">Whitman College</a><br><a class="mw-redirect" href="/wiki/Bell_Laboratories" title="Bell Laboratories">Bell Laboratories</a></br></td>

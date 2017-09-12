@@ -1,0 +1,10 @@
+Celia M. Hunter
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1919-01-13</span>)</span>January 13, 1919<br><span class="birthplace"><a href="/wiki/Arlington,_Washington" title="Arlington, Washington">Arlington, Washington</a></span></br></td>
+
+*** Died ***
+<td>December 1, 2001<span style="display:none">(<span class="dday deathdate">2001-12-01</span>)</span> (aged 82)</td>
+
+*** Occupation ***
+<td class="role">Environmentalist and conservationist</td>

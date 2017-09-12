@@ -1,0 +1,48 @@
+James Franck
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1882-08-26</span>)</span>26 August 1882<br><span class="birthplace"><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>, <a href="/wiki/German_Empire" title="German Empire">German Empire</a></span></br></td>
+
+*** Died ***
+<td>21 May 1964<span style="display:none">(<span class="dday deathdate">1964-05-21</span>)</span> (aged 81)<br><span class="deathplace"><a href="/wiki/G%C3%B6ttingen" title="Göttingen">Göttingen</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category">German</td>
+
+*** Citizenship ***
+<td class="category">Germany<br>
+United States</br></td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/University_of_Heidelberg" title="University of Heidelberg">University of Heidelberg</a><br><a href="/wiki/Humboldt_University_of_Berlin" title="Humboldt University of Berlin">University of Berlin</a></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Franck%E2%80%93Condon_principle" title="Franck–Condon principle">Franck–Condon principle</a><br><a href="/wiki/Franck%E2%80%93Hertz_experiment" title="Franck–Hertz experiment">Franck–Hertz experiment</a><br><a href="/wiki/Franck_Report" title="Franck Report">Franck Report</a></br></br></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Iron_Cross" title="Iron Cross">Iron Cross, 2nd Class</a> (1915)</li>
+<li><a href="/wiki/Hanseatic_Cross" title="Hanseatic Cross">Hanseatic Cross</a> (1916)</li>
+<li><a href="/wiki/Iron_Cross" title="Iron Cross">Iron Cross, 1st Class</a> (1918)</li>
+<li><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physics" title="Nobel Prize for Physics">Nobel Prize for Physics</a> (1925)</li>
+<li><a href="/wiki/Max_Planck_Medal" title="Max Planck Medal">Max Planck Medal</a> (1951)</li>
+<li><a href="/wiki/Rumford_Prize" title="Rumford Prize">Rumford Prize</a> (1955)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">Fellow of the Royal Society</a> (1964)</li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Thesis ***
+<td><a href="/wiki/Humboldt_University_of_Berlin" title="Humboldt University of Berlin">University of Berlin</a><br><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a><br><a href="/wiki/Johns_Hopkins_University" title="Johns Hopkins University">Johns Hopkins University</a><br><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a><br><a href="/wiki/Metallurgical_Laboratory" title="Metallurgical Laboratory">Metallurgical Laboratory</a></br></br></br></br></td>
+
+*** Doctoral advisor ***
+<td><i>Über die Beweglichkeit der Ladungsträger der Spitzenentladung</i> <span style="font-size:90%;">(1906)</span></td>
+
+*** Doctoral students ***
+<td><a class="mw-redirect" href="/wiki/Emil_Gabriel_Warburg" title="Emil Gabriel Warburg">Emil Gabriel Warburg</a></td>

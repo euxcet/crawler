@@ -1,0 +1,23 @@
+Jane Addams
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1860-09-06</span>)</span>September 6, 1860<br><span class="birthplace"><a href="/wiki/Cedarville,_Illinois" title="Cedarville, Illinois">Cedarville, Illinois</a>, U.S.</span></br></td>
+
+*** Died ***
+<td>May 21, 1935<span style="display:none">(<span class="dday deathdate">1935-05-21</span>)</span> (aged 74)<br><span class="deathplace"><a href="/wiki/Chicago" title="Chicago">Chicago</a>, Illinois, U.S</span></br></td>
+
+*** Education ***
+<td><a class="mw-redirect" href="/wiki/Rockford_Female_Seminary" title="Rockford Female Seminary">Rockford Female Seminary</a></td>
+
+*** Occupation ***
+<td class="role">Social Worker and political activist, author and lecturer, community organizer, public intellectual</td>
+
+*** Parent(s) ***
+<td><a href="/wiki/John_H._Addams" title="John H. Addams">John H. Addams</a><br>
+Sarah Weber (Addams)</br></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> <small>(1931)</small></td>
+
+*** Signature ***
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Jane_Addams_signature.svg"><img alt="Jane Addams signature.svg" data-file-height="133" data-file-width="585" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jane_Addams_signature.svg/150px-Jane_Addams_signature.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jane_Addams_signature.svg/225px-Jane_Addams_signature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jane_Addams_signature.svg/300px-Jane_Addams_signature.svg.png 2x" width="150"/></a></td>

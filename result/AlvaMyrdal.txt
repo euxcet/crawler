@@ -1,0 +1,16 @@
+Alva Myrdal
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1902-01-31</span>)</span>31 January 1902<br><span class="birthplace"><a href="/wiki/Uppsala" title="Uppsala">Uppsala</a>, Sweden</span></br></td>
+
+*** Died ***
+<td>1 February 1986<span style="display:none">(<span class="dday deathdate">1986-02-01</span>)</span> (aged 84)<br><span class="deathplace"><a href="/wiki/Danderyd_Municipality" title="Danderyd Municipality">Danderyd</a>, Sweden</span></br></td>
+
+*** Nationality ***
+<td class="category">Swedish</td>
+
+*** Occupation ***
+<td class="role">politician, <a class="mw-redirect" href="/wiki/Sociologist" title="Sociologist">sociologist</a></td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Alva Myrdal"><a href="/wiki/Gunnar_Myrdal" title="Gunnar Myrdal">Gunnar Myrdal</a> (<abbr title="married">m.</abbr> 1924)</span></td>

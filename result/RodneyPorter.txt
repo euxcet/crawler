@@ -1,0 +1,49 @@
+Rodney Porter
+
+*** Born ***
+<td><span class="nickname">Rodney Robert Porter</span><br><span style="display:none">(<span class="bday">1917-10-08</span>)</span>8 October 1917<br><span class="birthplace"><a href="/wiki/Newton-le-Willows" title="Newton-le-Willows">Newton-le-Willows</a>, Lancashire, United Kingdom</span></br></br></td>
+
+*** Died ***
+<td>6 September 1985<span style="display:none">(<span class="dday deathdate">1985-09-06</span>)</span> (aged 67)</td>
+
+*** Nationality ***
+<td class="category">English</td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/University_of_Liverpool" title="University of Liverpool">University of Liverpool</a> (BSc)</li>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td>Chemical structure of <a href="/wiki/Antibody" title="Antibody">antibodies</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> <small>(1964)</small><sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+<li><a href="/wiki/Gairdner_Foundation_International_Award" title="Gairdner Foundation International Award">Gairdner Foundation International Award</a> <small>(1966)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> <small>(1972)</small></li>
+<li><a href="/wiki/Royal_Medal" title="Royal Medal">Royal Medal</a> <small>(1973)</small></li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> <small>(1983)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Biochemistry" title="Biochemistry">biochemistry</a></td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/National_Institute_for_Medical_Research" title="National Institute for Medical Research">National Institute for Medical Research</a></li>
+<li><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=35669" rel="nofollow"><i>The free amino groups of proteins</i></a> <span style="font-size:90%;">(1948)</span></td>

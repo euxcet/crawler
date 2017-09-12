@@ -1,0 +1,37 @@
+Guglielmo Marconi
+
+*** Born ***
+<td><span class="nickname">Guglielmo Giovanni Maria Marconi</span><br><span style="display:none">(<span class="bday">1874-04-25</span>)</span>25 April 1874<br><span class="birthplace">Palazzo Marescalchi, <a href="/wiki/Bologna" title="Bologna">Bologna</a>, <a href="/wiki/Kingdom_of_Italy" title="Kingdom of Italy">Italy</a></span></br></br></td>
+
+*** Died ***
+<td>20 July 1937<span style="display:none">(<span class="dday deathdate">1937-07-20</span>)</span> (aged 63)<br><span class="deathplace"><a href="/wiki/Rome" title="Rome">Rome</a>, Italy</span></br></td>
+
+*** Residence ***
+<td>Italy</td>
+
+*** Nationality ***
+<td class="category"><a class="mw-redirect" href="/wiki/Italian_people" title="Italian people">Italian</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Radio" title="Radio">Radio</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li style="margin-top:initial;margin-bottom:initial"><a href="/wiki/Matteucci_Medal" title="Matteucci Medal">Matteucci Medal</a> <small>(1901)</small></li>
+<li style="margin-top:initial;margin-bottom:initial"><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physics" title="Nobel Prize for Physics">Nobel Prize for Physics</a> <small>(1909)</small></li>
+<li style="margin-top:initial;margin-bottom:initial"><a href="/wiki/Albert_Medal_(Royal_Society_of_Arts)" title="Albert Medal (Royal Society of Arts)">Albert Medal</a> <small>(1914)</small></li>
+<li style="margin-top:initial;margin-bottom:initial"><a href="/wiki/Franklin_Medal" title="Franklin Medal">Franklin Medal</a> <small>(1918)</small></li>
+<li style="margin-top:initial;margin-bottom:initial"><a href="/wiki/IEEE_Medal_of_Honor" title="IEEE Medal of Honor">IEEE Medal of Honor</a> <small>(1920)</small></li>
+<li style="margin-top:initial;margin-bottom:initial"><a href="/wiki/John_Fritz_Medal" title="John Fritz Medal">John Fritz Medal</a> <small>(1923)</small></li>
+</ul></div>
+</td>
+
+*** Academic advisors ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Signature ***
+<td><a href="/wiki/Augusto_Righi" title="Augusto Righi">Augusto Righi</a></td>

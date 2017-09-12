@@ -1,0 +1,37 @@
+Brian Schmidt
+
+*** Born ***
+<td><span class="nickname">Brian Paul Schmidt</span><br><span style="display:none">(<span class="bday">1967-02-24</span>)</span> February 24, 1967 <span class="noprint ForceAgeToShow">(age 50)</span><br><span class="birthplace"><a href="/wiki/Missoula,_Montana" title="Missoula, Montana">Missoula, Montana</a>, United States</span></br></br></td>
+
+*** Nationality ***
+<td class="category">Australia and United States<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Arizona" title="University of Arizona">University of Arizona</a> (1989), <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (1993)</td>
+
+*** Spouse(s) ***
+<td>Jennifer M. Gordon</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Pawsey_Medal" title="Pawsey Medal">Pawsey Medal</a> <small>(2001)</small></li>
+<li><a href="/wiki/Shaw_Prize" title="Shaw Prize">Shaw Prize in Astronomy</a> <small>(2006)</small></li>
+<li><a href="/wiki/2011_Nobel_Prize_in_Physics" title="2011 Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(2011)</small></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> <small>(2012)</small><sup class="reference" id="cite_ref-frs_2-0"><a href="#cite_note-frs-2">[2]</a></sup></li>
+<li><a href="/wiki/Dirac_Medal" title="Dirac Medal">Dirac Medal</a> <small>(2012)</small></li>
+<li><a class="mw-redirect" href="/wiki/Companion_of_the_Order_of_Australia" title="Companion of the Order of Australia">AC</a> <small>(2013)</small></li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://msowww.anu.edu.au/~brian" rel="nofollow">msowww<wbr></wbr>.anu<wbr></wbr>.edu<wbr></wbr>.au<wbr></wbr>/~brian</a></span></td>
+
+*** Institutions ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Thesis ***
+<td><a href="/wiki/Australian_National_University" title="Australian National University">Australian National University</a></td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="https://www.worldcat.org/oclc/29200485" rel="nofollow"><i>Type II supernovae, expanding photospheres, and the extragalactic distance scale</i></a> <span style="font-size:90%;">(1993)</span></td>

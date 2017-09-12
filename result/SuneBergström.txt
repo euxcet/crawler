@@ -1,0 +1,22 @@
+Sune Bergström
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1916-01-10</span>)</span>10 January 1916<br><span class="birthplace"><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a></span></br></td>
+
+*** Died ***
+<td>15 August 2004<span style="display:none">(<span class="dday deathdate">2004-08-15</span>)</span> (aged 88)</td>
+
+*** Residence ***
+<td>california;</td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Sweden" title="Sweden">Swedish</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Prostaglandin" title="Prostaglandin">Prostaglandin</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Gairdner_Foundation_International_Award" title="Gairdner Foundation International Award">Gairdner Foundation International Award</a> <small>(1972)</small><br><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize Medicine</a><br><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> <small>(1975)</small></br></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

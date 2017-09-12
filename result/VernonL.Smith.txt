@@ -1,0 +1,30 @@
+Vernon L. Smith
+
+*** Born ***
+<td><span class="nickname">Vernon Lomax Smith</span><br><span style="display:none">(<span class="bday">1927-01-01</span>)</span> January 1, 1927 <span class="noprint ForceAgeToShow">(age 90)</span><br><span class="birthplace"><a href="/wiki/Wichita,_Kansas" title="Wichita, Kansas">Wichita, Kansas</a></span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">American</a></td>
+
+*** Field ***
+<td colspan="2" style="text-align:center"></td>
+
+*** School or
+tradition ***
+<td class="category"><a href="/wiki/Experimental_economics" title="Experimental economics">Experimental economics</a></td>
+
+*** Alma mater ***
+<td class="category"><a class="mw-redirect" href="/wiki/New_classical_economics" title="New classical economics">New classical economics</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> (BA)<br><a href="/wiki/University_of_Kansas" title="University of Kansas">University of Kansas</a> (MA)<br><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (PhD)</br></br></td>
+
+*** Influences ***
+<td><a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Wassily Leontief</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (May 2017)">non-tertiary source needed</span></a></i>]</sup></td>
+
+*** Contributions ***
+<td><a class="mw-redirect" href="/wiki/Friedrich_von_Hayek" title="Friedrich von Hayek">Hayek</a>, Richard S. Howey</td>
+
+*** Awards ***
+<td><a href="/wiki/Combinatorial_auction" title="Combinatorial auction">Combinatorial auction</a><br><a href="/wiki/Experimental_economics" title="Experimental economics">Experimental economics</a></br></td>

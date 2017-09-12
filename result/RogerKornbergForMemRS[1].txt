@@ -1,0 +1,61 @@
+Roger KornbergForMemRS[1]
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1947-04-24</span>)</span> April 24, 1947 <span class="noprint ForceAgeToShow">(age 70)</span><br><span class="birthplace"><a class="mw-redirect" href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri">St. Louis, Missouri</a>, US</span></br></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (BS)</li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td>Transmission of genetic information from <a href="/wiki/DNA" title="DNA">DNA</a> to <a href="/wiki/RNA" title="RNA">RNA</a></td>
+
+*** Spouse(s) ***
+<td>Yahli Lorch</td>
+
+*** Children ***
+<td>three<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2015)">citation needed</span></a></i>]</sup></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/EMBO_Member" title="EMBO Member">EMBO Member</a> (2003)<sup class="reference" id="cite_ref-membo_2-0"><a href="#cite_note-membo-2">[2]</a></sup></li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (2006)</li>
+<li><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> (2006)</li>
+<li><a class="mw-redirect" href="/wiki/Alfred_P._Sloan,_Jr._Prize" title="Alfred P. Sloan, Jr. Prize">Alfred P. Sloan, Jr. Prize</a> (2005)</li>
+<li><a href="/wiki/Gairdner_Foundation_International_Award" title="Gairdner Foundation International Award">Gairdner Award</a> (2000)</li>
+<li><a href="/wiki/Harvey_Prize" title="Harvey Prize">Harvey Prize</a> (1997)</li>
+<li><a href="/wiki/Ciba-Drew_Award" title="Ciba-Drew Award">Ciba-Drew Award</a> (1990)</li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://kornberg.stanford.edu" rel="nofollow">kornberg<wbr></wbr>.stanford<wbr></wbr>.edu</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Structural_biology" title="Structural biology">Structural biology</a></td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></li>
+<li><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></li>
+<li><a href="/wiki/Laboratory_of_Molecular_Biology" title="Laboratory of Molecular Biology">Laboratory of Molecular Biology</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://search.proquest.com/docview/302673759" rel="nofollow"><i>The Diffusion of Phospholipids in Membranes</i></a> <span style="font-size:90%;">(1972)</span></td>
+
+*** Signature ***
+<td><a href="/wiki/Harden_M._McConnell" title="Harden M. McConnell">Harden M. McConnell</a><sup class="reference" id="cite_ref-phd_3-0"><a href="#cite_note-phd-3">[3]</a></sup></td>

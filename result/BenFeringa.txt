@@ -1,0 +1,37 @@
+Ben Feringa
+
+*** Born ***
+<td><span class="nickname">Bernard Lucas Feringa</span><br><span style="display:none">(<span class="bday">1951-05-18</span>)</span> 18 May 1951 <span class="noprint ForceAgeToShow">(age 66)</span><br><span class="birthplace"><a href="/wiki/Barger-Compascuum" title="Barger-Compascuum">Barger-Compascuum</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></span></br></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/Groningen" title="Groningen">Groningen</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+
+*** Nationality ***
+<td class="category">Dutch</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Groningen" title="University of Groningen">University of Groningen</a></td>
+
+*** Known for ***
+<td><a class="new" href="/w/index.php?title=Molecular_switches/motors&amp;action=edit&amp;redlink=1" title="Molecular switches/motors (page does not exist)">Molecular switches/motors</a>, <a href="/wiki/Homogeneous_catalysis" title="Homogeneous catalysis">Homogeneous catalysis</a>, <a href="/wiki/Stereochemistry" title="Stereochemistry">stereochemistry</a>, <a href="/wiki/Photochemistry" title="Photochemistry">photochemistry</a></td>
+
+*** Spouse(s) ***
+<td>Betty Feringa</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (2016)<sup class="reference" id="cite_ref-NP-20161005_1-0"><a href="#cite_note-NP-20161005-1">[1]</a></sup></td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://www.benferinga.com" rel="nofollow">benferinga.com</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a class="mw-redirect" href="/wiki/Organic_Chemistry" title="Organic Chemistry">Organic Chemistry</a><br><a class="mw-redirect" href="/wiki/Materials_Science" title="Materials Science">Materials Science</a><br><a href="/wiki/Nanotechnology" title="Nanotechnology">Nanotechnology</a><br><a href="/wiki/Photochemistry" title="Photochemistry">Photochemistry</a></br></br></br></td>
+
+*** Thesis ***
+<td><a href="/wiki/University_of_Groningen" title="University of Groningen">University of Groningen</a>, 1984–present<br><a href="/wiki/Royal_Dutch_Shell" title="Royal Dutch Shell">Royal Dutch Shell</a>, 1979–1984</br></td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://dissertations.ub.rug.nl/faculties/science/1978/b.l.feringa/" rel="nofollow"><i>Asymmetric oxidation of phenols. Atropisomerism and optical activity</i></a> <span style="font-size:90%;">(1978)</span></td>

@@ -1,0 +1,25 @@
+Gustaf Dalén
+
+*** Born ***
+<td><span class="nickname">Nils Gustaf Dalén</span><br><span style="display:none">(<span class="bday">1869-11-30</span>)</span>30 November 1869<br><span class="birthplace"><a href="/wiki/Stenstorp" title="Stenstorp">Stenstorp</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a></span></br></br></td>
+
+*** Died ***
+<td>9 December 1937<span style="display:none">(<span class="dday deathdate">1937-12-09</span>)</span> (aged 68)<br><span class="deathplace"><a href="/wiki/Liding%C3%B6" title="Lidingö">Lidingö</a>, <a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, Sweden</span></br></td>
+
+*** Nationality ***
+<td class="category"><a class="mw-redirect" href="/wiki/Swedish_people" title="Swedish people">Swedish</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Chalmers_University_of_Technology" title="Chalmers University of Technology">Chalmers University of Technology</a>, Polytechnikum, <a href="/wiki/Z%C3%BCrich" title="Zürich">Zürich</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Sun_valve" title="Sun valve">Sun valve</a> and other lighthouse regulators</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (1912)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a>, mechanical engineering</td>

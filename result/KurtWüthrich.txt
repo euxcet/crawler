@@ -1,0 +1,52 @@
+Kurt Wüthrich
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1938-10-04</span>)</span> October 4, 1938 <span class="noprint ForceAgeToShow">(age 78)</span><br><span class="birthplace"><a href="/wiki/Aarberg" title="Aarberg">Aarberg</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Switzerland" title="Switzerland">Swiss</a></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/Universit%C3%A4t_Bern" title="Universität Bern">Universität Bern</a></li>
+<li><a class="mw-redirect" href="/wiki/Universit%C3%A4t_Basel" title="Universität Basel">Universität Basel</a></li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Nuclear_Magnetic_Resonance" title="Nuclear Magnetic Resonance">NMR</a> of proteins</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> <small>(2002)</small></li>
+<li><a href="/wiki/Kyoto_Prize" title="Kyoto Prize">Kyoto Prize</a> <small>(1998)</small></li>
+<li><a href="/wiki/Marcel_Benoist_Prize" title="Marcel Benoist Prize">Marcel Benoist Prize</a> <small>(1991)</small></li>
+<li><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> <small>(1991)</small></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(2010)</small></li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="https://www.scripps.edu/wuthrich" rel="nofollow">www<wbr></wbr>.scripps<wbr></wbr>.edu<wbr></wbr>/wuthrich</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category">
+<div class="plainlist">
+<ul><li><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a></li>
+<li><a href="/wiki/Nuclear_magnetic_resonance" title="Nuclear magnetic resonance">Nuclear magnetic resonance</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/ETH_Z%C3%BCrich" title="ETH Zürich">ETH Zürich</a></li>
+<li><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></li>
+<li><a class="mw-redirect" href="/wiki/The_Scripps_Research_Institute" title="The Scripps Research Institute">Scripps Institute</a></li>
+</ul></div>
+</td>

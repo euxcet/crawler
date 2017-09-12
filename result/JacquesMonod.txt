@@ -1,0 +1,30 @@
+Jacques Monod
+
+*** Born ***
+<td><span class="nickname">Jacques Lucien Monod</span><br><span style="display:none">(<span class="bday">1910-02-09</span>)</span>9 February 1910<br><span class="birthplace"><a class="mw-redirect" href="/wiki/Paris,_France" title="Paris, France">Paris, France</a></span></br></br></td>
+
+*** Died ***
+<td>31 May 1976<span style="display:none">(<span class="dday deathdate">1976-05-31</span>)</span> (aged 66)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Cannes,_France" title="Cannes, France">Cannes, France</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/France" title="France">French</a></td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Lac_operon" title="Lac operon">Lac operon</a></li>
+<li><a href="/wiki/Allosteric_regulation" title="Allosteric regulation">Allosteric regulation</a></li>
+</ul></div>
+</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1965)</li>
+<li><a href="/wiki/Legion_of_Honour" title="Legion of Honour">Legion of Honour</a></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> (1968)<sup class="reference" id="cite_ref-Lwoff-385_1-0"><a href="#cite_note-Lwoff-385-1">[1]</a></sup></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

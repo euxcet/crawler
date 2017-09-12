@@ -1,0 +1,32 @@
+Pierre-Gilles de Gennes
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1932-10-24</span>)</span>October 24, 1932<br><span class="birthplace"><a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/France" title="France">France</a></span></br></td>
+
+*** Died ***
+<td>May 18, 2007<span style="display:none">(<span class="dday deathdate">2007-05-18</span>)</span> (aged 74)<br><span class="deathplace"><a href="/wiki/Orsay" title="Orsay">Orsay</a>, <a href="/wiki/France" title="France">France</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/France" title="France">French</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/%C3%89cole_Normale_Sup%C3%A9rieure" title="École Normale Supérieure">École Normale Supérieure</a><br><a href="/wiki/University_of_Paris" title="University of Paris">University of Paris</a></br></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1984)</small><sup class="reference" id="cite_ref-formemrs_1-0"><a href="#cite_note-formemrs-1">[1]</a></sup></li>
+<li><a href="/wiki/Matteucci_Medal" title="Matteucci Medal">Matteucci Medal</a> <small>(1987)</small></li>
+<li><a href="/wiki/Harvey_Prize" title="Harvey Prize">Harvey Prize</a> <small>(1988)</small></li>
+<li><a href="/wiki/Lorentz_Medal" title="Lorentz Medal">Lorentz Medal</a> <small>(1990)</small></li>
+<li><a href="/wiki/Wolf_Prize" title="Wolf Prize">Wolf Prize</a> <small>(1990)</small></li>
+<li><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physics" title="Nobel Prize for Physics">Nobel Prize for Physics</a> <small>(1991)</small></li>
+<li><a href="/wiki/Eringen_Medal" title="Eringen Medal">Eringen Medal</a> <small>(1998)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>

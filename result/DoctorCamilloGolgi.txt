@@ -1,0 +1,22 @@
+DoctorCamillo Golgi
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1843-07-07</span>)</span>7 July 1843<br><span class="birthplace"><a href="/wiki/Corteno_Golgi" title="Corteno Golgi">Corteno</a>, <a href="/wiki/Kingdom_of_Lombardy%E2%80%93Venetia" title="Kingdom of Lombardy–Venetia">Kingdom of Lombardy–Venetia</a>, <a class="mw-redirect" href="/wiki/Kingdom_of_Italy_(1861%E2%80%931946)" title="Kingdom of Italy (1861–1946)">Italy</a></span></br></td>
+
+*** Died ***
+<td>21 January 1926<span style="display:none">(<span class="dday deathdate">1926-01-21</span>)</span> (aged 82)<br><span class="deathplace"><a href="/wiki/Pavia" title="Pavia">Pavia</a>, <a class="mw-redirect" href="/wiki/Kingdom_of_Italy_(1861%E2%80%931946)" title="Kingdom of Italy (1861–1946)">Italy</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a class="mw-redirect" href="/wiki/Italian_people" title="Italian people">Italian</a></td>
+
+*** Citizenship ***
+<td class="category"><a class="mw-redirect" href="/wiki/Kingdom_of_Italy_(1861%E2%80%931946)" title="Kingdom of Italy (1861–1946)">Italian</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Pavia" title="University of Pavia">University of Pavia</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1906)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

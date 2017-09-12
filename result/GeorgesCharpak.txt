@@ -1,0 +1,28 @@
+Georges Charpak
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1924-03-08</span>)</span>8 March 1924<br><span class="birthplace"><a href="/wiki/Dubrovytsia" title="Dubrovytsia">Dąbrowica</a>, <a href="/wiki/Poland" title="Poland">Poland</a></span></br></td>
+
+*** Died ***
+<td>29 September 2010<span style="display:none">(<span class="dday deathdate">2010-09-29</span>)</span> (aged 86)<br><span class="deathplace"><a href="/wiki/Paris" title="Paris">Paris</a>, France</span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Poles" title="Poles">Polish-Jewish</a><br><a href="/wiki/French_people" title="French people">French</a></br></td>
+
+*** Citizenship ***
+<td class="category">French</td>
+
+*** Alma mater ***
+<td><a class="mw-redirect" href="/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Paris" title="École nationale supérieure des mines de Paris">École des Mines</a><br><a href="/wiki/Coll%C3%A8ge_de_France" title="Collège de France">Collège de France</a></br></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Multiwire_proportional_chamber" title="Multiwire proportional chamber">Multiwire proportional chamber</a></td>
+
+*** Spouse(s) ***
+<td>Dominique Vidal (m. 1953; 3 children)</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a>, 1992</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

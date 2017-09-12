@@ -1,0 +1,16 @@
+
+*** Born ***
+<td style="line-height:1.4em;"><span style="display:none">(<span class="bday">1864-07-20</span>)</span>20 July 1864<br><a href="/wiki/Karlbo" title="Karlbo">Karlbo</a>, <a href="/wiki/Dalarna" title="Dalarna">Dalarna</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a></br></td>
+
+*** Died ***
+<td style="line-height:1.4em;">8 April 1931<span style="display:none">(<span class="dday deathdate">1931-04-08</span>)</span> (aged 66)<br><a href="/wiki/Stockholm" title="Stockholm">Stockholm</a>, Sweden</br></td>
+
+*** Occupation ***
+<td class="role" style="line-height:1.4em;">Poet</td>
+
+*** Nationality ***
+<td class="category" style="line-height:1.4em;"><a href="/wiki/Sweden" title="Sweden">Swedish</a></td>
+
+*** Notable awards ***
+<td style="line-height:1.4em;"><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a><br>
+1931<br/></br></td>

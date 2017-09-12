@@ -1,0 +1,47 @@
+Robert Burns Woodward
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1917-04-10</span>)</span>April 10, 1917<br><span class="birthplace"><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, U.S.</span></br></td>
+
+*** Died ***
+<td>July 8, 1979<span style="display:none">(<span class="dday deathdate">1979-07-08</span>)</span> (aged 62)<br><span class="deathplace"><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, U.S.</span></br></td>
+
+*** Citizenship ***
+<td class="category">United States</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li>Landmark <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic syntheses</a></li>
+<li><a href="/wiki/Woodward_cis-hydroxylation" title="Woodward cis-hydroxylation">Woodward cis-hydroxylation</a></li>
+<li><a class="mw-redirect" href="/wiki/Molecular_structure" title="Molecular structure">Molecular structure</a> determination</li>
+<li><a href="/wiki/Woodward%E2%80%93Hoffmann_rules" title="Woodward–Hoffmann rules">Woodward–Hoffmann rules</a></li>
+</ul></div>
+</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1956)</small><sup class="reference" id="cite_ref-formemrs_1-0"><a href="#cite_note-formemrs-1">[1]</a></sup></li>
+<li><a href="/wiki/Davy_Medal" title="Davy Medal">Davy Medal</a> <small>(1959)</small></li>
+<li><a href="/wiki/National_Medal_of_Science" title="National Medal of Science">National Medal of Science</a> <small>(1964)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> <small>(1965)</small></li>
+<li><a href="/wiki/Willard_Gibbs_Award" title="Willard Gibbs Award">Willard Gibbs Award</a> <small>(1967)</small></li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> <small>(1978)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Organic_chemistry" title="Organic chemistry">Organic chemistry</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/James_Flack_Norris" title="James Flack Norris">James Flack Norris</a><br><a class="new" href="/w/index.php?title=Avery_Adrian_Morton&amp;action=edit&amp;redlink=1" title="Avery Adrian Morton (page does not exist)">Avery Adrian Morton</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2017)">citation needed</span></a></i>]</sup></br></td>

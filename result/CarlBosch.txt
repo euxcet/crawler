@@ -1,0 +1,33 @@
+Carl Bosch
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1874-08-27</span>)</span>27 August 1874<br><span class="birthplace"><a href="/wiki/Cologne" title="Cologne">Cologne</a>, <a href="/wiki/German_Empire" title="German Empire">German Empire</a></span></br></td>
+
+*** Died ***
+<td>26 April 1940<span style="display:none">(<span class="dday deathdate">1940-04-26</span>)</span> (aged 65)<br><span class="deathplace"><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a>, Germany</span></br></td>
+
+*** Nationality ***
+<td class="category">German</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Technical_University_of_Berlin" title="Technical University of Berlin">Technical University of Berlin</a></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Haber%E2%80%93Bosch_process" title="Haber–Bosch process">Haber–Bosch process</a></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><span class="nowrap"><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (1931)</span></li>
+<li><span class="nowrap"><a href="/wiki/Goethe_Prize" title="Goethe Prize">Goethe Prize</a> (1939)</span></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Chemistry" title="Chemistry">Chemistry</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/BASF" title="BASF">BASF</a>, <a href="/wiki/IG_Farben" title="IG Farben">IG Farben</a></td>

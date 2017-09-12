@@ -1,0 +1,26 @@
+Nikolay Semyonov (or Semenov)
+
+*** Born ***
+<td><span class="nickname">Nikolay Nikolayevich Semyonov</span><br>
+15 April [<a href="/wiki/Old_Style_and_New_Style_dates" title="Old Style and New Style dates">O.S.</a> 3 April] 1896<br><span class="birthplace"><a href="/wiki/Saratov" title="Saratov">Saratov</a>, <a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></span></br></br></td>
+
+*** Died ***
+<td>25 September 1986<span style="display:none">(<span class="dday deathdate">1986-09-25</span>)</span> (aged 90)<br><span class="deathplace">Moscow, Soviet Union</span></br></td>
+
+*** Nationality ***
+<td class="category">Russian</td>
+
+*** Known for ***
+<td><a href="/wiki/Chemical_transformation" title="Chemical transformation">chemical transformation</a></td>
+
+*** Awards ***
+<td><span class="nowrap"><a class="mw-redirect" href="/wiki/Nobel_Prize_in_chemistry" title="Nobel Prize in chemistry">Nobel Prize in chemistry</a> <small>(1956)</small><br><a href="/wiki/Lomonosov_Gold_Medal" title="Lomonosov Gold Medal">Lomonosov Gold Medal</a> <small>(1969)</small></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Doctoral advisor ***
+<td class="category"><a href="/wiki/Physicist" title="Physicist">physicist</a> and <a href="/wiki/Chemistry" title="Chemistry">chemist</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Abram_Ioffe" title="Abram Ioffe">Abram Ioffe</a></td>

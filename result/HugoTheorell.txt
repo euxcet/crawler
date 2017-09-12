@@ -1,0 +1,19 @@
+Hugo Theorell
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1903-07-06</span>)</span>6 July 1903<br><span class="birthplace"><a href="/wiki/Link%C3%B6ping" title="Linköping">Linköping</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a></span></br></td>
+
+*** Died ***
+<td>15 August 1982<span style="display:none">(<span class="dday deathdate">1982-08-15</span>)</span> (aged 79)</td>
+
+*** Residence ***
+<td><a href="/wiki/Sweden" title="Sweden">Sweden</a></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Sweden" title="Sweden">Swedish</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1955)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

@@ -1,0 +1,49 @@
+Vitaly Ginzburg
+
+*** Born ***
+<td><span class="nickname">Vitaly Lazarevich Ginzburg</span><br><span style="display:none">(<span class="bday">1916-10-04</span>)</span>4 October 1916<br><span class="birthplace"><a href="/wiki/Moscow" title="Moscow">Moscow</a>, <a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></span></br></br></td>
+
+*** Died ***
+<td>8 November 2009<span style="display:none">(<span class="dday deathdate">2009-11-08</span>)</span> (aged 93)<br><span class="deathplace"><a href="/wiki/Moscow" title="Moscow">Moscow</a>, <a href="/wiki/Russia" title="Russia">Russia</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Russia" title="Russia">Russia</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Moscow_State_University" title="Moscow State University">Moscow State University</a></td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasmas</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluidity</a></li>
+<li><a href="/wiki/Ferroelectricity" title="Ferroelectricity">Ferroelectricity</a></li>
+</ul></div>
+</td>
+
+*** Spouse(s) ***
+<td>Olga Zamsha Ginzburg (1937–1946; divorced; 1 child)<br>
+Nina Yermakova Ginzburg (m. 1946)</br></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(2003)</small></li>
+<li><a href="/wiki/Wolf_Prize_in_Physics" title="Wolf Prize in Physics">Wolf Prize in Physics</a> <small>(1994/95)</small></li>
+<li><a href="/wiki/Lomonosov_Gold_Medal" title="Lomonosov Gold Medal">Lomonosov Gold Medal</a> <small>(1995)</small></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1987)</small><sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a class="mw-redirect" href="/wiki/Theoretical_Physics" title="Theoretical Physics">Theoretical Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a href="/wiki/Lebedev_Physical_Institute" title="Lebedev Physical Institute">P. N. Lebedev Physical Institute, Russian Academy of Sciences</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Igor_Tamm" title="Igor Tamm">Igor Tamm</a></td>

@@ -1,0 +1,13 @@
+Bertha von Suttner
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1843-06-09</span>)</span>9 June 1843<br><span class="birthplace"><a href="/wiki/Prague" title="Prague">Prague</a>, <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Bohemia</a>,<br><a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian Empire</a></br></span></br></td>
+
+*** Died ***
+<td>21 June 1914<span style="display:none">(<span class="dday deathdate">1914-06-21</span>)</span> (aged 71)<br><span class="deathplace"><a href="/wiki/Vienna" title="Vienna">Vienna</a>, <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a></span></br></td>
+
+*** Occupation ***
+<td class="role"><a href="/wiki/Pacifism" title="Pacifism">Pacifist</a>, <a href="/wiki/Novelist" title="Novelist">novelist</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a>, 1905</td>

@@ -1,0 +1,31 @@
+Barbara McClintock
+
+*** Born ***
+<td><span class="nickname">Eleanor McClintock</span><br><span style="display:none">(<span class="bday">1902-06-16</span>)</span>June 16, 1902<br><span class="birthplace"><a href="/wiki/Hartford,_Connecticut" title="Hartford, Connecticut">Hartford</a>, <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, U.S.</span></br></br></td>
+
+*** Died ***
+<td>September 2, 1992<span style="display:none">(<span class="dday deathdate">1992-09-02</span>)</span> (aged 90)<br><span class="deathplace"><a href="/wiki/Huntington,_New_York" title="Huntington, New York">Huntington</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>, U.S.</span></br></td>
+
+*** Nationality ***
+<td class="category">American</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> <small>(Ph.D., 1927)</small></td>
+
+*** Known for ***
+<td>Work in genetic structure of <a href="/wiki/Maize" title="Maize">maize</a></td>
+
+*** Awards ***
+<td><a href="/wiki/National_Medal_of_Science" title="National Medal of Science">National Medal of Science</a> <small>(1970)</small><br><a href="/wiki/Thomas_Hunt_Morgan_Medal" title="Thomas Hunt Morgan Medal">Thomas Hunt Morgan Medal</a> <small>(1981)</small><br><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> <small>(1982)</small><br><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> <small>(1983)</small></br></br></br></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Cytogenetics" title="Cytogenetics">Cytogenetics</a></td>
+
+*** Thesis ***
+<td><a href="/wiki/University_of_Missouri" title="University of Missouri">University of Missouri</a><br><a href="/wiki/Cold_Spring_Harbor_Laboratory" title="Cold Spring Harbor Laboratory">Cold Spring Harbor Laboratory</a></br></td>
+
+*** Signature ***
+<td><a class="external text" href="http://cornell.worldcat.org/title/cytological-and-genetical-study-of-triploid-maize/oclc/64683107" rel="nofollow"><i>A Cytological and Genetical Study of Triploid Maize</i></a> <span style="font-size:90%;">(1927)</span></td>

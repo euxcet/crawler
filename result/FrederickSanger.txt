@@ -1,0 +1,50 @@
+Frederick Sanger
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1918-08-13</span>)</span>13 August 1918<br><span class="birthplace"><a href="/wiki/Rendcomb" title="Rendcomb">Rendcomb</a>, <a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a>, <a href="/wiki/England" title="England">England</a></span></br></td>
+
+*** Died ***
+<td>19 November 2013<span style="display:none">(<span class="dday deathdate">2013-11-19</span>)</span> (aged 95)<br><span class="deathplace"><a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>, <a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a>, England<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></span></br></td>
+
+*** Nationality ***
+<td class="category">British</td>
+
+*** Alma mater ***
+<td><a href="/wiki/St_John%27s_College,_Cambridge" title="St John's College, Cambridge">St John's College, Cambridge</a></td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Peptide_sequence" title="Peptide sequence">Amino acid sequence</a> of <a href="/wiki/Insulin" title="Insulin">insulin</a><br><a href="/wiki/Sanger_sequencing" title="Sanger sequencing">Sanger sequencing</a><br><a href="/wiki/Wellcome_Trust_Sanger_Institute" title="Wellcome Trust Sanger Institute">Sanger Centre</a></br></br></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (1954)</li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (1958)</li>
+<li><a href="/wiki/Royal_Medal" title="Royal Medal">Royal Medal</a> (1969)</li>
+<li><a href="/wiki/Gairdner_Foundation_International_Award" title="Gairdner Foundation International Award">Gairdner Foundation International Award</a> (1971)</li>
+<li><a href="/wiki/William_Bate_Hardy_Prize" title="William Bate Hardy Prize">William Bate Hardy Prize</a> (1976)</li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> (1977)</li>
+<li><a href="/wiki/Louisa_Gross_Horwitz_Prize" title="Louisa Gross Horwitz Prize">Louisa Gross Horwitz Prize</a> (1979)</li>
+<li><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> (1980)</li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Biochemistry" title="Biochemistry">Biochemistry</a></td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></li>
+<li><a href="/wiki/Laboratory_of_Molecular_Biology" title="Laboratory of Molecular Biology">Laboratory of Molecular Biology</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=35253" rel="nofollow"><i>The metabolism of the amino acid lysine in the animal body</i></a> <span style="font-size:90%;">(1943)</span></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Albert_Neuberger" title="Albert Neuberger">Albert Neuberger</a><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>

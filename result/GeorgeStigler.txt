@@ -1,0 +1,40 @@
+George Stigler
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1911-01-17</span>)</span>January 17, 1911<br><span class="birthplace"><a href="/wiki/Seattle" title="Seattle">Seattle, Washington</a>, U.S.</span></br></td>
+
+*** Died ***
+<td>December 1, 1991<span style="display:none">(<span class="dday deathdate">1991-12-01</span>)</span> (aged 80)<br><span class="deathplace"><a href="/wiki/Chicago" title="Chicago">Chicago, Illinois</a>, U.S.</span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Institution ***
+<td colspan="2" style="text-align:center"></td>
+
+*** Field ***
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><br><a href="/wiki/Brown_University" title="Brown University">Brown University</a><br><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a><br><a href="/wiki/Iowa_State_University" title="Iowa State University">Iowa State University</a></br></br></br></td>
+
+*** School or
+tradition ***
+<td class="category"><a href="/wiki/Economics" title="Economics">Economics</a></td>
+
+*** Alma mater ***
+<td class="category"><a class="mw-redirect" href="/wiki/Chicago_School_of_Economics" title="Chicago School of Economics">Chicago School of Economics</a></td>
+
+*** Doctoral
+advisor ***
+<td><a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a> (B.A., 1931)<br><a href="/wiki/Northwestern_University" title="Northwestern University">Northwestern University</a> (MBA)<br><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a> (PhD)</br></br></td>
+
+*** Doctoral
+students ***
+<td><a href="/wiki/Frank_Knight" title="Frank Knight">Frank Knight</a></td>
+
+*** Influences ***
+<td><a href="/wiki/Jacob_Mincer" title="Jacob Mincer">Jacob Mincer</a><br><a href="/wiki/Thomas_Sowell" title="Thomas Sowell">Thomas Sowell</a></br></td>
+
+*** Contributions ***
+<td><a href="/wiki/Jacob_Viner" title="Jacob Viner">Jacob Viner</a>, <a class="mw-redirect" href="/wiki/Henry_Simons" title="Henry Simons">Henry Simons</a>, <a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a></td>
+
+*** Awards ***
+<td><a class="mw-redirect" href="/wiki/Capture_(politics)" title="Capture (politics)">Capture theory</a></td>

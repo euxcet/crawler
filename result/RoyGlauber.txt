@@ -1,0 +1,55 @@
+Roy Glauber
+
+*** Born ***
+<td><span class="nickname">Roy Jay Glauber</span><br><span style="display:none">(<span class="bday">1925-09-01</span>)</span> September 1, 1925 <span class="noprint ForceAgeToShow">(age 92)</span><br><span class="birthplace"><a class="mw-redirect" href="/wiki/New_York_City,_New_York" title="New York City, New York">New York City, New York</a>, <a href="/wiki/United_States" title="United States">USA</a></span></br></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (BA, PhD)</td>
+
+*** Known for ***
+<td>Inventing <a class="mw-redirect" href="/wiki/Quantum_Optics" title="Quantum Optics">Quantum Optics</a></td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Roy J. Glauber">Cynthia Rich (<abbr title="married">m.</abbr> 1960; <abbr title="divorced">div.</abbr> 1975)</span><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></td>
+
+*** Children ***
+<td>2</td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(2005)</small></li>
+<li><a href="/wiki/Dannie_Heineman_Prize_for_Mathematical_Physics" title="Dannie Heineman Prize for Mathematical Physics">Heineman Prize</a> <small>(1996)</small></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1997)</small><sup class="reference" id="cite_ref-frs_2-0"><a href="#cite_note-frs-2">[2]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/Albert_A._Michelson_Medal" title="Albert A. Michelson Medal">Albert A. Michelson Medal</a> <small>(1985)</small></li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="https://www.physics.harvard.edu/people/facpages/glauber" rel="nofollow">www<wbr></wbr>.physics<wbr></wbr>.harvard<wbr></wbr>.edu<wbr></wbr>/people<wbr></wbr>/facpages<wbr></wbr>/glauber</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a class="mw-redirect" href="/wiki/Theoretical_Physics" title="Theoretical Physics">Theoretical Physics</a></td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></li>
+<li><a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos National Laboratory</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="https://www.worldcat.org/oclc/76985581" rel="nofollow"><i>The relativistic theory of meson fields</i></a> <span style="font-size:90%;">(1949)</span></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Julian_Schwinger" title="Julian Schwinger">Julian Schwinger</a><sup class="reference" id="cite_ref-mathgene_3-0"><a href="#cite_note-mathgene-3">[3]</a></sup></td>

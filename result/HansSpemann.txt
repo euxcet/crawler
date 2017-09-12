@@ -1,0 +1,19 @@
+Hans Spemann
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1869-06-27</span>)</span>27 June 1869<br><span class="birthplace"><a href="/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>, <a href="/wiki/Kingdom_of_W%C3%BCrttemberg" title="Kingdom of Württemberg">Kingdom of Württemberg</a></span></br></td>
+
+*** Died ***
+<td>9 September 1941<span style="display:none">(<span class="dday deathdate">1941-09-09</span>)</span> (aged 72)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Freiburg" title="Freiburg">Freiburg</a>, <a href="/wiki/Nazi_Germany" title="Nazi Germany">Germany</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Germany" title="Germany">German</a></td>
+
+*** Known for ***
+<td>Embryonic induction and the Organiser</td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1935)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

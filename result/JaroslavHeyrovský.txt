@@ -1,0 +1,40 @@
+Jaroslav Heyrovský
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1890-12-20</span>)</span>December 20, 1890<br><span class="birthplace"><a href="/wiki/Prague" title="Prague">Prague</a>, <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Bohemia</a></span></br></td>
+
+*** Died ***
+<td>March 27, 1967<span style="display:none">(<span class="dday deathdate">1967-03-27</span>)</span> (aged 76)<br><span class="deathplace"><a href="/wiki/Prague" title="Prague">Prague</a>, <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Charles_University" title="Charles University">Charles University</a></li>
+<li><a href="/wiki/University_College_London" title="University College London">University College London</a></li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td><a href="/wiki/Analytical_chemistry" title="Analytical chemistry">Electroanalytical chemistry</a><br><a href="/wiki/Polarography" title="Polarography">Polarography</a></br></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Chemistry" title="Nobel Prize for Chemistry">Nobel Prize for Chemistry</a> (1959)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a><sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category">
+<div class="plainlist">
+<ul><li><a href="/wiki/Polarography" title="Polarography">Polarography</a></li>
+<li><a href="/wiki/Analytical_chemistry" title="Analytical chemistry">Electroanalytical chemistry</a></li>
+</ul></div>
+</td>

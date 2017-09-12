@@ -1,0 +1,78 @@
+Sir Konstantin Novoselov
+
+*** Born ***
+<td>
+<div class="plainlist">
+<ul><li><span class="nickname">Konstantin Sergeevich Novoselov</span></li>
+<li><span class="nickname"><a href="/wiki/Russian_language" title="Russian language">Russian</a>: <span lang="ru">Константи́н Серге́евич Новосёлов</span>; <small>IPA: </small><span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)"><a href="/wiki/Help:IPA/Russian" title="Help:IPA/Russian">[kənstɐnˈtʲin sʲɪrˈgʲejɪvʲɪtɕ nəvɐˈsʲɵləf]</a></span></span></li>
+</ul></div>
+<br><span style="display:none">(<span class="bday">1974-08-23</span>)</span> 23 August 1974 <span class="noprint ForceAgeToShow">(age 43)</span><sup class="reference" id="cite_ref-whoswho_1-0"><a href="#cite_note-whoswho-1">[1]</a></sup><br><span class="birthplace"><a href="/wiki/Nizhny_Tagil" title="Nizhny Tagil">Nizhny Tagil</a>, <a href="/wiki/Russian_Soviet_Federative_Socialist_Republic" title="Russian Soviet Federative Socialist Republic">Russian SFSR</a>, <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></span></br></br></td>
+
+*** Residence ***
+<td class="label"><a href="/wiki/Manchester" title="Manchester">Manchester</a>, England</td>
+
+*** Nationality ***
+<td class="category">Russia and United Kingdom<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Moscow_Institute_of_Physics_and_Technology" title="Moscow Institute of Physics and Technology">Moscow Institute of Physics and Technology</a></li>
+<li><a class="mw-redirect" href="/wiki/Radboud_University_of_Nijmegen" title="Radboud University of Nijmegen">Radboud University of Nijmegen</a> (PhD)</li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td><a href="/wiki/Graphene" title="Graphene">graphene</a></td>
+
+*** Spouse(s) ***
+<td>Irina Barbolina<sup class="reference" id="cite_ref-whoswho_1-1"><a href="#cite_note-whoswho-1">[1]</a></sup></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Nicholas_Kurti" title="Nicholas Kurti">Nicholas Kurti</a> Prize (2007)</li>
+<li><a href="/wiki/TR35" title="TR35">TR35</a> (2008)</li>
+<li><a href="/wiki/European_Physical_Society" title="European Physical Society">EuroPhysics Prize</a> (2008)</li>
+<li><a href="/wiki/International_Union_of_Pure_and_Applied_Physics" title="International Union of Pure and Applied Physics">IUPAP</a> Prize (2008)</li>
+<li><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> (2010)</li>
+<li>Knight Commander of the <a href="/wiki/Order_of_the_Netherlands_Lion" title="Order of the Netherlands Lion">Order of the Netherlands Lion</a> (2010)</li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> (2011)<sup class="reference" id="cite_ref-frs_3-0"><a href="#cite_note-frs-3">[3]</a></sup></li>
+<li><a href="/wiki/Knight_Bachelor" title="Knight Bachelor">Knight Bachelor</a> (2012)</li>
+<li><a href="/wiki/Leverhulme_Medal_(Royal_Society)" title="Leverhulme Medal (Royal Society)">Leverhulme Medal</a> (2013)</li>
+<li><a href="/wiki/Onsager_Medal" title="Onsager Medal">Onsager Medal</a> (2014)</li>
+<li><a href="/wiki/Carbon_Medal" title="Carbon Medal">Carbon Medal</a> (2016)</li>
+<li><a href="/wiki/Dalton_Medal" title="Dalton Medal">Dalton Medal</a> (2016)</li>
+<li><a href="/wiki/Royal_Society_of_Chemistry" title="Royal Society of Chemistry">HonFRSC</a></li>
+<li><a href="/wiki/Institute_of_Physics" title="Institute of Physics">HonFInstP</a></li>
+</ul></div>
+</td>
+
+*** Website ***
+<td><span class="url"><a class="external text" href="http://manchester.ac.uk/research/konstantin.novoselov" rel="nofollow">manchester<wbr></wbr>.ac<wbr></wbr>.uk<wbr></wbr>/research<wbr></wbr>/konstantin<wbr></wbr>.novoselov</a></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Solid-state_physics" title="Solid-state physics">Solid-state physics</a></td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/University_of_Manchester" title="University of Manchester">University of Manchester</a></li>
+<li><a href="/wiki/Moscow_Institute_of_Physics_and_Technology" title="Moscow Institute of Physics and Technology">Moscow Institute of Physics and Technology</a></li>
+<li><a class="mw-redirect" href="/wiki/Radboud_University_of_Nijmegen" title="Radboud University of Nijmegen">Radboud University of Nijmegen</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://repository.ubn.ru.nl/handle/2066/19519" rel="nofollow"><i>Development and Applications of Mesoscopic Hall Microprobes</i></a> <span style="font-size:90%;">(2004)</span></td>
+
+*** Doctoral students ***
+<td>
+<div class="plainlist">
+<ul><li>Jan Kees Maan</li>
+<li><a href="/wiki/Andre_Geim" title="Andre Geim">Andre Geim</a><sup class="reference" id="cite_ref-novoselovphd_4-0"><a href="#cite_note-novoselovphd-4">[4]</a></sup></li>
+</ul></div>
+</td>

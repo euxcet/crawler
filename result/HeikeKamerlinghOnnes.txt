@@ -1,0 +1,41 @@
+Heike Kamerlingh Onnes
+
+*** Born ***
+<td><span class="nickname">Heike Kamerlingh Onnes</span><br><span style="display:none">(<span class="bday">1853-09-21</span>)</span>21 September 1853<br><span class="birthplace"><a href="/wiki/Groningen" title="Groningen">Groningen</a>, Netherlands</span></br></br></td>
+
+*** Died ***
+<td>21 February 1926<span style="display:none">(<span class="dday deathdate">1926-02-21</span>)</span> (aged 72)<br><span class="deathplace"><a href="/wiki/Leiden" title="Leiden">Leiden</a>, Netherlands</span></br></td>
+
+*** Nationality ***
+<td class="category">Netherlands</td>
+
+*** Alma mater ***
+<td><a href="/wiki/Heidelberg_University" title="Heidelberg University">Heidelberg University</a><br><a href="/wiki/University_of_Groningen" title="University of Groningen">University of Groningen</a></br></td>
+
+*** Known for ***
+<td><a href="/wiki/Liquid_helium" title="Liquid helium">Liquid helium</a><br><a class="mw-redirect" href="/wiki/Onnes-effect" title="Onnes-effect">Onnes-effect</a><br><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a><br><a href="/wiki/Equation_of_state#Virial_equations_of_state" title="Equation of state">Virial equation of state</a><br><a class="mw-redirect" href="/wiki/Onnes-effect" title="Onnes-effect">Onnes-effect</a><br>
+Coining the term “<a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a>”<br><a href="/wiki/Kamerlingh_Onnes_Award" title="Kamerlingh Onnes Award">Kamerlingh Onnes Award</a></br></br></br></br></br></br></td>
+
+*** Awards ***
+<td><span class="nowrap"><a href="/wiki/Matteucci_Medal" title="Matteucci Medal">Matteucci Medal</a> <small>(1910)</small><br><a href="/wiki/Rumford_Medal" title="Rumford Medal">Rumford Medal</a> <small>(1912)</small><br><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> <small>(1913)</small><br><a href="/wiki/Franklin_Medal" title="Franklin Medal">Franklin Medal</a> <small>(1915)</small></br></br></br></span></td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Physics" title="Physics">Physics</a></td>
+
+*** Doctoral advisor ***
+<td><a class="mw-redirect" href="/wiki/University_of_Leiden" title="University of Leiden">University of Leiden</a><br><a class="mw-redirect" href="/wiki/TU_Delft" title="TU Delft">Delft Polytechnic</a></br></td>
+
+*** Other academic advisors ***
+<td><a class="new" href="/w/index.php?title=Rudolf_Adriaan_Mees&amp;action=edit&amp;redlink=1" title="Rudolf Adriaan Mees (page does not exist)">Rudolf Adriaan Mees</a></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Robert_Bunsen" title="Robert Bunsen">Robert Bunsen</a><br><a href="/wiki/Gustav_Kirchhoff" title="Gustav Kirchhoff">Gustav Kirchhoff</a><br><a href="/wiki/Johannes_Bosscha" title="Johannes Bosscha">Johannes Bosscha</a></br></br></td>
+
+*** Influences ***
+<td><a href="/wiki/Jacob_Clay" title="Jacob Clay">Jacob Clay</a><br><a class="new" href="/w/index.php?title=Claude_Crommelin&amp;action=edit&amp;redlink=1" title="Claude Crommelin (page does not exist)">Claude Crommelin</a><br><a class="mw-redirect" href="/wiki/Wander_de_Haas" title="Wander de Haas">Wander de Haas</a><br><a href="/wiki/Gilles_Holst" title="Gilles Holst">Gilles Holst</a><br><a href="/wiki/Johannes_Kuenen" title="Johannes Kuenen">Johannes Kuenen</a><br><a class="new" href="/w/index.php?title=Remmelt_Sissingh&amp;action=edit&amp;redlink=1" title="Remmelt Sissingh (page does not exist)">Remmelt Sissingh</a><br><a class="new" href="/w/index.php?title=Ewoud_van_Everdingen&amp;action=edit&amp;redlink=1" title="Ewoud van Everdingen (page does not exist)">Ewoud van Everdingen</a><br><a class="new" href="/w/index.php?title=Jules_Verschaffelt&amp;action=edit&amp;redlink=1" title="Jules Verschaffelt (page does not exist)">Jules Verschaffelt</a><br><a href="/wiki/Pieter_Zeeman" title="Pieter Zeeman">Pieter Zeeman</a></br></br></br></br></br></br></br></br></td>
+
+*** Influenced ***
+<td><a href="/wiki/Johannes_Diderik_van_der_Waals" title="Johannes Diderik van der Waals">Johannes Diderik van der Waals</a></td>

@@ -1,0 +1,61 @@
+Sir Peter Medawar
+
+*** Born ***
+<td><span class="nickname">Peter Brian Medawar</span><br><span style="display:none">(<span class="bday">1915-02-28</span>)</span>28 February 1915<br><span class="birthplace"><a href="/wiki/Petr%C3%B3polis" title="Petrópolis">Petrópolis</a>, <a href="/wiki/Rio_de_Janeiro_(state)" title="Rio de Janeiro (state)">Rio de Janeiro</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></span></br></br></td>
+
+*** Died ***
+<td>2 October 1987<span style="display:none">(<span class="dday deathdate">1987-10-02</span>)</span> (aged 72)<br><span class="deathplace"><a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></br></td>
+
+*** Residence ***
+<td>England</td>
+
+*** Citizenship ***
+<td class="category">British</td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a> (BA)</td>
+
+*** Known for ***
+<td><a class="mw-redirect" href="/wiki/Immunological_tolerance" title="Immunological tolerance">Immunological tolerance</a><br><a href="/wiki/Organ_transplantation" title="Organ transplantation">Organ transplantation</a></br></td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/Peter Medawar"><a href="/wiki/Jean_Medawar" title="Jean Medawar">Jean Medawar</a> (née Taylor) (<abbr title="married">m.</abbr> 1937)</span></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a> <small>(1949)</small><sup class="reference" id="cite_ref-frs_1-0"><a href="#cite_note-frs-1">[1]</a></sup></li>
+<li><a href="/wiki/Royal_Medal" title="Royal Medal">Royal Medal</a> <small>(1959)</small></li>
+<li><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize</a> <small>(1960)</small></li>
+<li><a href="/wiki/EMBO_Membership" title="EMBO Membership">EMBO Membership</a> <small>(1964)</small><sup class="reference" id="cite_ref-membo_2-0"><a href="#cite_note-membo-2">[2]</a></sup></li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> <small>(1969)</small></li>
+<li><a href="/wiki/Kalinga_Prize" title="Kalinga Prize">Kalinga Prize</a> <small>(1985)</small></li>
+<li><a href="/wiki/Michael_Faraday_Prize" title="Michael Faraday Prize">Faraday Prize</a> <small>(1987)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Zoology" title="Zoology">Zoology</a>; <a href="/wiki/Immunology" title="Immunology">Immunology</a></td>
+
+*** Doctoral students ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/University_of_Birmingham" title="University of Birmingham">University of Birmingham</a></li>
+<li><a href="/wiki/University_College_London" title="University College London">University College London</a></li>
+<li><a href="/wiki/National_Institute_for_Medical_Research" title="National Institute for Medical Research">National Institute for Medical Research</a></li>
+</ul></div>
+</td>
+
+*** Other notable students ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Leslie_Brent" title="Leslie Brent">Leslie Brent</a><sup class="reference" id="cite_ref-simpson15_3-0"><a href="#cite_note-simpson15-3">[3]</a></sup></li>
+<li><a href="/wiki/Avrion_Mitchison" title="Avrion Mitchison">Avrion Mitchison</a><sup class="reference" id="cite_ref-simpson15_3-1"><a href="#cite_note-simpson15-3">[3]</a></sup></li>
+</ul></div>
+</td>
+
+*** Influences ***
+<td><a href="/wiki/Rupert_E._Billingham" title="Rupert E. Billingham">Rupert E. Billingham</a> (<a class="mw-redirect" href="/wiki/Postdoc" title="Postdoc">postdoc</a>)<sup class="reference" id="cite_ref-simpson15_3-2"><a href="#cite_note-simpson15-3">[3]</a></sup></td>

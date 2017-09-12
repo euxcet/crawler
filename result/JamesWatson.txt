@@ -1,0 +1,85 @@
+James Watson
+
+*** Born ***
+<td><span class="nickname">James Dewey Watson</span><br><span style="display:none">(<span class="bday">1928-04-06</span>)</span> April 6, 1928 <span class="noprint ForceAgeToShow">(age 89)</span><sup class="reference" id="cite_ref-watsonswho_1-0"><a href="#cite_note-watsonswho-1">[1]</a></sup><br><span class="birthplace"><a href="/wiki/Chicago" title="Chicago">Chicago</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a>, United States</span></br></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/United_States" title="United States">United States</a></td>
+
+*** Alma mater ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/University_of_Chicago" title="University of Chicago">University of Chicago</a> <small>(B.S., 1947)</small></li>
+<li><a href="/wiki/Indiana_University" title="Indiana University">Indiana University</a> <small>(Ph.D., 1950)</small></li>
+</ul></div>
+</td>
+
+*** Known for ***
+<td>
+<div class="plainlist">
+<ul><li><a class="mw-redirect" href="/wiki/DNA_structure" title="DNA structure">DNA structure</a></li>
+<li><a href="/wiki/Molecular_biology" title="Molecular biology">Molecular biology</a></li>
+</ul></div>
+</td>
+
+*** Spouse(s) ***
+<td><span itemscope="" itemtype="https://en.wikipedia.org/wiki/James Watson">Elizabeth Watson (née Lewis) (<abbr title="married">m.</abbr> 1968)</span></td>
+
+*** Awards ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Albert_Lasker_Award_for_Basic_Medical_Research" title="Albert Lasker Award for Basic Medical Research">Albert Lasker Award for Basic Medical Research</a> <small>(1960)</small></li>
+<li><a class="mw-redirect" href="/wiki/Nobel_Prize_for_Physiology_or_Medicine" title="Nobel Prize for Physiology or Medicine">Nobel Prize</a> <small>(1962)</small></li>
+<li><a href="/wiki/John_J._Carty_Award_for_the_Advancement_of_Science" title="John J. Carty Award for the Advancement of Science">John J. Carty Award</a> <small>(1971)</small></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">ForMemRS</a> <small>(1981)</small><sup class="reference" id="cite_ref-formemrs_2-0"><a href="#cite_note-formemrs-2">[2]</a></sup></li>
+<li><a href="/wiki/EMBO_Membership" title="EMBO Membership">EMBO Membership</a> <small>(1985)</small><sup class="reference" id="cite_ref-membo_3-0"><a href="#cite_note-membo-3">[3]</a></sup></li>
+<li><a href="/wiki/Copley_Medal" title="Copley Medal">Copley Medal</a> <small>(1993)</small><sup class="reference" id="cite_ref-formemrs_2-1"><a href="#cite_note-formemrs-2">[2]</a></sup><sup class="reference" id="cite_ref-Copley_4-0"><a href="#cite_note-Copley-4">[4]</a></sup></li>
+<li><a href="/wiki/Lomonosov_Gold_Medal" title="Lomonosov Gold Medal">Lomonosov Gold Medal</a> <small>(1994)</small></li>
+</ul></div>
+</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+
+*** Institutions ***
+<td class="category"><a href="/wiki/Genetics" title="Genetics">Genetics</a></td>
+
+*** Thesis ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Indiana_University" title="Indiana University">Indiana University</a></li>
+<li><a href="/wiki/Cold_Spring_Harbor_Laboratory" title="Cold Spring Harbor Laboratory">Cold Spring Harbor Laboratory</a></li>
+<li><a href="/wiki/Laboratory_of_Molecular_Biology" title="Laboratory of Molecular Biology">Laboratory of Molecular Biology</a></li>
+<li><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></li>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></li>
+<li><a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a></li>
+</ul></div>
+</td>
+
+*** Doctoral advisor ***
+<td><a class="external text" href="http://search.proquest.com/docview/302021835" rel="nofollow"><i>The Biological Properties of X-Ray Inactivated Bacteriophage</i></a> <span style="font-size:90%;">(1951)</span></td>
+
+*** Doctoral students ***
+<td><a href="/wiki/Salvador_Luria" title="Salvador Luria">Salvador Luria</a></td>
+
+*** Other notable students ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Mario_Capecchi" title="Mario Capecchi">Mario Capecchi</a><sup class="reference" id="cite_ref-capecchiphd_5-0"><a href="#cite_note-capecchiphd-5">[5]</a></sup></li>
+<li><a href="/wiki/H._Robert_Horvitz" title="H. Robert Horvitz">Bob Horvitz</a><sup class="reference" id="cite_ref-academictree_6-0"><a href="#cite_note-academictree-6">[6]</a></sup></li>
+<li>Charles Kurland<sup class="reference" id="cite_ref-academictree_6-1"><a href="#cite_note-academictree-6">[6]</a></sup></li>
+<li><a href="/wiki/Peter_Moore_(chemist)" title="Peter Moore (chemist)">Peter D. Moore</a><sup class="reference" id="cite_ref-academictree_6-2"><a href="#cite_note-academictree-6">[6]</a></sup></li>
+<li><a href="/wiki/Joan_A._Steitz" title="Joan A. Steitz">Joan Steitz</a><sup class="reference" id="cite_ref-steitzzzz_7-0"><a href="#cite_note-steitzzzz-7">[7]</a></sup></li>
+</ul></div>
+</td>
+
+*** Signature ***
+<td>
+<div class="plainlist">
+<ul><li><a href="/wiki/Ewan_Birney" title="Ewan Birney">Ewan Birney</a><sup class="reference" id="cite_ref-thescientist_8-0"><a href="#cite_note-thescientist-8">[8]</a></sup></li>
+<li><a href="/wiki/Ronald_W._Davis" title="Ronald W. Davis">Ronald W. Davis</a> (postdoc)<sup class="reference" id="cite_ref-academictree_6-3"><a href="#cite_note-academictree-6">[6]</a></sup></li>
+<li><a href="/wiki/Phillip_Allen_Sharp" title="Phillip Allen Sharp">Phillip Allen Sharp</a> (postdoc)<sup class="reference" id="cite_ref-academictree_6-4"><a href="#cite_note-academictree-6">[6]</a></sup></li>
+<li><a href="/wiki/Richard_J._Roberts" title="Richard J. Roberts">Richard J. Roberts</a> (postdoc)<sup class="reference" id="cite_ref-richardrobertys_9-0"><a href="#cite_note-richardrobertys-9">[9]</a></sup></li>
+<li><a href="/wiki/John_Tooze" title="John Tooze">John Tooze</a> (postdoc)<sup class="reference" id="cite_ref-embook_10-0"><a href="#cite_note-embook-10">[10]</a></sup><sup class="reference" id="cite_ref-Ferry2014_11-0"><a href="#cite_note-Ferry2014-11">[11]</a></sup></li>
+</ul></div>
+</td>

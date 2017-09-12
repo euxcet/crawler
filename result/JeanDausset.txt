@@ -1,0 +1,25 @@
+Jean Dausset
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1916-10-19</span>)</span>19 October 1916<br><span class="birthplace"><a href="/wiki/Toulouse" title="Toulouse">Toulouse</a>, <a href="/wiki/France" title="France">France</a></span></br></td>
+
+*** Died ***
+<td>6 June 2009<span style="display:none">(<span class="dday deathdate">2009-06-06</span>)</span> (aged 92)<br><span class="deathplace"><a class="mw-redirect" href="/wiki/Palma_(Majorca)" title="Palma (Majorca)">Palma</a>, <a href="/wiki/Majorca" title="Majorca">Majorca</a>, <a href="/wiki/Spain" title="Spain">Spain</a></span></br></td>
+
+*** Nationality ***
+<td class="category"><a href="/wiki/France" title="France">French</a></td>
+
+*** Alma mater ***
+<td><a href="/wiki/University_of_Paris" title="University of Paris">University of Paris</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Major_histocompatibility_complex" title="Major histocompatibility complex">major histocompatibility complex</a>, <a href="/wiki/Fondation_Jean_Dausset-CEPH" title="Fondation Jean Dausset-CEPH">CEPH</a></td>
+
+*** Spouse(s) ***
+<td><a class="new" href="/w/index.php?title=Rose_Mayoral&amp;action=edit&amp;redlink=1" title="Rose Mayoral (page does not exist)">Rose Mayoral</a></td>
+
+*** Awards ***
+<td><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Nobel Prize in Physiology or Medicine</a> (1980), <a href="/wiki/Wolf_Prize_in_Medicine" title="Wolf Prize in Medicine">Wolf Prize in Medicine</a> (1978)</td>
+
+*** Fields ***
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>

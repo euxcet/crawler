@@ -1,0 +1,22 @@
+Ludwig Quidde
+
+*** Born ***
+<td><span style="display:none">(<span class="bday">1858-03-23</span>)</span>March 23, 1858<br><span class="birthplace"><a href="/wiki/Bremen" title="Bremen">Bremen</a></span></br></td>
+
+*** Died ***
+<td>March 4, 1941<span style="display:none">(<span class="dday deathdate">1941-03-04</span>)</span> (aged 82)<br><span class="deathplace"><a href="/wiki/Geneva" title="Geneva">Geneva</a></span></br></td>
+
+*** Cause of death ***
+<td><a href="/wiki/Pneumonia" title="Pneumonia">Pneumonia</a></td>
+
+*** Resting place ***
+<td class="label"><a href="/wiki/Geneva" title="Geneva">Geneva</a></td>
+
+*** Residence ***
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+
+*** Known for ***
+<td><a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a></td>
+
+*** Political party ***
+<td class="org"><a href="/wiki/German_People%27s_Party_(1868)" title="German People's Party (1868)">German People's Party</a>,<br><a href="/wiki/German_Democratic_Party" title="German Democratic Party">German Democratic Party</a>,<br><a class="new" href="/w/index.php?title=Radical_Democratic_Party_(Germany)&amp;action=edit&amp;redlink=1" title="Radical Democratic Party (Germany) (page does not exist)">Radical Democratic Party</a></br></br></td>
