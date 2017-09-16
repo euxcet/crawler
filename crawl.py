@@ -1,6 +1,9 @@
 import requests, cookielib
+import re
 import cookielib
+from pymongo import MongoClient
 from bs4 import BeautifulSoup
+
 
 
 
@@ -17,32 +20,108 @@ class Crawler:
 		self.website = 'https://en.wikipedia.org'
 		self.resultpath = '/Users/qwer_zcc/Files/week3/crawl/result/'
 		self.imgpath = '/Users/qwer_zcc/Files/week3/crawl/img/'
+		self.total = 0
+		self.client = MongoClient('localhost', 27017)
+		self.db = self.client.wiki
+		self.collection = self.db.people
+		self.names = dict()
 
+
+
+
+	def get_string(self, c):
+		res = []
+		try:
+			if (c.contents[0].name == 'br'):
+				res.append('<br>')
+
+		except:
+			pass
+
+		if (len(c.contents) == 1):
+			if (len(c.get_text()) > 2):
+				res.append(c.get_text())
+			return res
+
+
+		for content in c.contents:
+			s = self.get_string(BeautifulSoup(str(content.encode('utf-8')), 'html.parser'))
+			for si in s:
+				res.append(si)
+			
+
+
+		return res
+
+
+	def getString(self, td):
+		tdstr = ""
+		s = str(td)
+		valid = False 
+		for i in xrange(0, len(s)):
+			if (s[i] == '>'):
+				if (s[i-3:i] == '<br'):
+					tdstr = tdstr + "<br>"
+				valid = True
+			elif (s[i] == '<') :
+				valid = False
+			elif (valid == True and s[i] != '\n'):
+				tdstr = tdstr + s[i]
+		return tdstr
+
+
+	def Insert(self, people):
+		if (not people['name'] in self.names):
+			self.total = self.total + 1
+			self.names[people['name']] = True
+			print self.total, people['name'], self.collection.insert_one(people).inserted_id
+		
 
 	def extractPeople(self, text):
 		soup = BeautifulSoup(text, 'html.parser')
-		table = soup.find_all('table', attrs = {'class': 'infobox'})
-		if (len(table)):
-			t = table[0]
+		tables = soup.find_all('table', attrs = {'class': 'infobox'})
+		if (len(tables)):
+			table = tables[0]
+			trs = table.find_all('tr')
 
-			title = t.find_all('th')
-			info = t.find_all('td')
+			imageurl =  'http:' + table.find_all('a', attrs = {'class': 'image'})[0].find_all('img')[0]['src']
 
+			thlist = []
+			tdlist = []
 
-			if (len(info) > 1 and title[1].get_text() == 'Born'):
-
-				filename = self.resultpath + "".join(title[0].get_text().split(' ')) + '.txt'
-				imgname = self.imgpath + "".join(title[0].get_text().split(' ')) + '.jpg'
-
-				img = t.find_all('a', attrs = {'class': 'image'})
-				self.saveImage(img[0].find_all('img')[0]['src'], imgname)
+			valid = False
 
 
-				output = open(filename, 'w')
-				output.write(title[0].get_text().encode('utf-8') + '\n')
-				for i in xrange(1, len(title)):
-					output.write("\n*** " + title[i].get_text().encode('utf-8') + " ***\n")
-					output.write(str(info[i]) + '\n')
+			for tr in trs:
+				ths = tr.find_all('th')
+				tds = tr.find_all('td')
+
+				full_string = []
+
+				thstr = ""
+				tdstr = ""
+
+				for th in ths:
+					thstr = self.getString(th)
+					if (thstr == 'Born'):
+						valid = True
+
+				for td in tds:
+					tdstr = self.getString(td)
+
+				thlist.append([thstr, tdstr])
+
+			if (valid == False):
+				return
+
+		
+			people = {
+				'id': self.total,
+				'name': thlist[0][0],
+				'image': imageurl,
+				'row': thlist,
+			}
+			self.Insert(people)
 
 
 
@@ -93,7 +172,11 @@ class Crawler:
 
 
 	def crawl(self, url):
-		print url
 		s = self.session
-		page = s.get(url, timeout = 1)
-		return page.text.encode('utf-8')
+		page = ""
+		try:
+			page = s.get(url)
+			return page.text.encode('utf-8')
+		except:
+			print 'error'
+			return ""
